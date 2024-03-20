@@ -207,5 +207,4 @@ Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</str
 - Sep'2023-Jul'2026: Master Student, Xiamen University.
 - Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen.
 
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
