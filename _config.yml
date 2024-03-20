@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Personal Page"
 title_separator          : "-"
-name                     : &name "Tian Ye"
+name                     : &name "Yunlong Lin"
 description              : &description "personal description"
-url                      : https://owen718.github.io # the base hostname & protocol for your site e.g. "httpss://mmistakes.github.io"
+url                      : https://LYL1015.github.io # the base hostname & protocol for your site e.g. "httpss://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "owen718/owen718.github.io"
+repository               : "LYL1015/LYL1015.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tian Ye"
+  name             : "Yunlong Lin"
   avatar           : "WechatIMG26174.jpg"
   bio              : "CV Researcher"
-  location         : "Guangzhou, China"
+  location         : "Xiamen, China"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=1sGXZ-wAAAAJ&hl=en"
-  email            : owentianye@hkust-gz.edu.cn
+  googlescholar    : "https://scholar.google.com.hk/citations?user=5F3tICwAAAAJ&hl=zh-CN"
+  email            : linyl@stu.xmu.edu.cn
   researchgate     :  
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Owen718"
+  github           : "LYL1015"
   google_plus      :
   keybase          :
   instagram        :
