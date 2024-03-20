@@ -208,4 +208,4 @@ Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</str
 - Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen.
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KKPhQ-LXT8mek63h4Oa8BltFlbFsTTwZkLrrWb3wFEs&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA"></script>
