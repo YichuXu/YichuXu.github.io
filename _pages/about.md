@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 <!-- bundle exec jekyll serve -->
-I am Tian Ye, a Research Assistant in [ROAS](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/) at HKUST,GZ, supervised by [Prof. Lei Zhu](https://sites.google.com/site/indexlzhu/home). I am also an incoming PhD student at HKUST@[ROAS Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/systems-hub/robotics-and-autonomous-systems/). My primary research interests include computer vision and deep learning, mainly focusing on reversible imaging problems and image generation. I was honored to be supervised and collaborated with **Prof. Erkang Chen** and **Prof. Yun Liu** during my undergraduate studies.
+I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https://xmu-smartdsp.github.io/) advised by [Prof. Xinghao Ding](https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN). My primary research interests include computer vision and deep learning, mainly focusing on reversible imaging problems and image generation.
+
 
 
 # 📝 Selected Papers
 <p style='text-align: justify;'> My current research focuses on three main areas: <strong>(I)</strong> Addressing the challenges of real-world image restoration and enhancement by identifying and overcoming the limitations of existing learning-based methods. <strong>(II)</strong> Exploring vision problems related to photography, with the goal of producing images of superior visual quality. <strong>(III)</strong> Providing support for the art creation industry and digital asset generation through advancements in AIGC (Artificial Intelligence Generated Content) technology.
 </p>
 
-Google Scholar Citation: ~400 (2024.02)
 
 
 <style type="text/css">
