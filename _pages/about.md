@@ -84,39 +84,11 @@ I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https:
 
 </style>
 
-
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    [Emboided AI&LLM]<papertitle_just> Hierarchical Auto-Organizing System for Open-Ended Multi-Agent Navigation</papertitle_just>     
-  </a>
-  <br>
-Zhonghan Zhao, Kewei Chen, Dongxu Guo, Wenhao Chai, <strong>Tian Ye</strong>, Yanting Zhang, Gaoang Wang.
-  <br>
-<em>ICLR</em> 2024@LLMAgents Workshop<br>
-<a href="https://arxiv.org/pdf/2403.08282.pdf">Arxiv</a>
-<p></p>
-</td>
-
-
-
-
-
 <tbody>
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
 <td width="20%">
 <!-- <div class="one"> -->
 <!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
@@ -134,236 +106,28 @@ Zhonghan Zhao, Kewei Chen, Dongxu Guo, Wenhao Chai, <strong>Tian Ye</strong>, Ya
 </td>
 <td valign="top" width="80%">
   <a href="">
-    [Generative Model For IR]<papertitle_just> Learning Diffusion Texture Priors for Image Restoration</papertitle_just>     
+    <papertitle_just> Domain-irrelevant Feature Learning for Generalizable Pan-sharpening</papertitle_just>     
   </a>
   <br>
-<strong>Tian Ye</strong>, Sixiang Chen, Wenhao Chai, Zhaohu Xing, Jing Qin, Ge Lin, Lei Zhu.
-  <br>
-<em>CVPR</em> 2024 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td>
-
-
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://rese1f.github.io/MovieChat/">
-    [LLM&Multi-Modal]<papertitle_just> MovieChat: From Dense Token to Sparse Memory for Long Video Understanding</papertitle_just>     
-  </a>
-  <br>
-Enxin Song, Wenhao Chai, Guanhong Wang, Yucheng Zhang, Haoyang Zhou, Feiyang Wu, Xun Guo, <strong>Tian Ye</strong>, Yan Lu, Jenq-Neng Hwang, Gaoang Wang
-  <br>
-<em>CVPR</em> 2024 <br>
-<a href="https://arxiv.org/pdf/2307.16449">PDF</a>
-|
-<a href="https://github.com/rese1f/MovieChat">Code</a>
-|
-<a href="https://github.com/rese1f/MovieChat">Project</a>
-<p></p>
-</td>
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<td width="20%">
-<!-- <div class="one"> -->
-<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
-<img src='./files/submit23_before.png'> -->
-<!-- </div> -->
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2312.08606.pdf">
-    [Generative Model For IR]<papertitle_just> VQCNIR: Clearer Night Image Restoration with Vector-Quantized Codebook</papertitle_just>     
-  </a>
-  <br>
-Wenbin Zou, Hongxia Gao, <strong>Tian Ye</strong>, Liang Chen, Weipeng Yang, Shasha Huang, Hongsheng Chen, Sixiang Chen
+<strong>Yunlong Lin</strong>, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding
 <br>
-<em>AAAI</em> 2024 <br>
-<a href="https://arxiv.org/pdf/2312.08606.pdf">PDF</a>
-|
-<a href="https://github.com/AlexZou14/VQCNIR">Code</a>
-<p></p>
-</td>
-
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<td width="20%">
-
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Sparse_Sampling_Transformer_with_Uncertainty-Driven_Ranking_for_Unified_Removal_of_ICCV_2023_paper.html">
-    [Image Restoration]<papertitle_just> Sparse Sampling Transformer with Uncertainty-Driven Ranking for Unified Removal of Raindrops and Rain Streaks </papertitle_just>     
-  </a>
-  <br>
-Sixiang Chen*,<strong>Tian Ye*</strong>, Jinbin Bai, Jun Shi, Erkang Chen, Lei Zhu.
-  <br>
-<em>ICCV</em> 2023 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Chen_Sparse_Sampling_Transformer_with_Uncertainty-Driven_Ranking_for_Unified_Removal_of_ICCV_2023_paper.html">PDF</a>
-|
-<a href="https://github.com/Owen718/UDR-S2Former_deraining">Code</a>
-|
-<a href="https://ephemeral182.github.io/UDR_S2Former_deraining/">Project</a>
-<p></p>
-</td>
-
-
-
-<td width="20%">
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html">
-   [Generative Model For IR]<papertitle_just> Adverse Weather Removal with Codebook Priors </papertitle_just>     
-  </a>
-  <br>
-<strong>Tian Ye*</strong>, Sixiang Chen*, Jinbin Bai*, Shi Jun, Chenghao Xue, Jingjia Jiang, Junjie Yin, Erkang Chen, Yun Liu.
-  <br>
-<em>ICCV</em> 2023 <br>
-<a href="https://openaccess.thecvf.com/content/ICCV2023/html/Ye_Adverse_Weather_Removal_with_Codebook_Priors_ICCV_2023_paper.html">PDF</a>
-|
-<a href="">Code</a>
-<p></p>
-</td>
-
-<!-- Paper V  -->
-<!-- ###################################################################################################-->
-  
-
-
-
-
-
-
-<!-- <td width="20%">
-<script type="text/javascript">
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://arxiv.org/abs/2306.17201">
-    <papertitle_just>MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling </papertitle_just>     
-  </a>
-  <br>
-Zhengyu Zhang, Wenhao Chai, Zhongyu Jiang, <strong>Tian Ye</strong>, Mingli Song, Jenq-Neng Hwang, Gaoang Wang 
-  <br>
-<em>Under Review.</em> 2023 <br>
-<a href="https://arxiv.org/abs/2306.17201">PDF</a>
-|
-<a href="https://github.com/vvirgooo2/MPM">code</a>
-<p>Treat 2D and 3D pose as two different modalities and apply three mask modeling based pretext tasks for human pose pre-training to learn spatial and temporal relations.</p>
-</td>
- -->
-
-
-
-
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<td width="20%">
-
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    [Image Restoration]<papertitle_just> Uncertainty-Driven Dynamic Degradation Perceiving and Background Modeling for Efficient Single Image Desnowing</papertitle_just>     
-  </a>
-  <br>
-SiXiang Chen*, <strong>Tian Ye*</strong>, Chenghao Xue, Haoyu Chen, Yun Liu, Erkang Chen, Lei Zhu
-  <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
+<em>ACMMM</em> 2023 <br>
 <a href="">PDF</a>
 |
 <a href="">Code</a>
 <p></p>
 </td>
 
-<!-- Paper V  -->
-<!-- ###################################################################################################-->
 
 
 <!-- ###################################################################################################-->
 <!-- Paper V -->
 <!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<!-- <td width="20%">
-
-</td>
-<td valign="top" width="80%">
-  <a href="">
-    <papertitle_just>Cross-scale Prototype Learning Transformer for Image Snow Removal </papertitle_just>     
-  </a>
-  <br>
-Sixiang Chen*, <strong>Tian Ye*</strong>, Yun Liu, Jinbin Bai, Haoyu Chen, Yunlong Lin, Jun Shi, Erkang Chen
-  <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
-<a href="">PDF</a>
-|
-<a href="">code</a>
-<p></p>
-</td> -->
-
-<!-- Paper V  -->
-<!-- ###################################################################################################-->
-  
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<!-- <td width="20%">
-
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
 <script type="text/javascript">
 // function submit23__start() {
 // document.getElementById('submit23__image').style.opacity = "1";
@@ -376,29 +140,27 @@ Sixiang Chen*, <strong>Tian Ye*</strong>, Yun Liu, Jinbin Bai, Haoyu Chen, Yunlo
 </td>
 <td valign="top" width="80%">
   <a href="">
-    <papertitle_just>Sequential Affinity Learning for Video Restoration</papertitle_just>     
+    <papertitle_just> Learning High-frequency Feature Enhancement and Alignment for Pan-sharpening</papertitle_just>     
   </a>
   <br>
-<strong>Tian Ye*</strong>, Sixiang Chen*, Yun Liu, Wenhao Chai, Jinbin Bai, Wenbin Zou, Yunchen Zhang, jiang mingchao, Erkang Chen, Chenghao Xue
-  <br>
-<em>ACM Multimedia (ACM MM),</em> 2023 <br>
+Yingying Wang, <strong>Yunlong Lin</strong>, Ge Meng, Zhenqi Fu, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding, Yue Huang
+<br>
+<em>ACMMM</em> 2023 <br>
 <a href="">PDF</a>
 |
-<a href="">code</a>
+<a href="">Code</a>
 <p></p>
-</td> -->
-
-<!-- Paper V  -->
-<!-- ###################################################################################################-->
-  
-
+</td>
 
 
 <!-- ###################################################################################################-->
 <!-- Paper V -->
 <!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
 <td width="20%">
-
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
 <script type="text/javascript">
 // function submit23__start() {
 // document.getElementById('submit23__image').style.opacity = "1";
@@ -410,83 +172,39 @@ Sixiang Chen*, <strong>Tian Ye*</strong>, Yun Liu, Jinbin Bai, Haoyu Chen, Yunlo
 </script>
 </td>
 <td valign="top" width="80%">
-  <a href="https://arxiv.org/pdf/2305.09533.pdf">
-   [Image Restoration]  <papertitle_just>NightHazeFormer: Single Nighttime Haze Removal Using Prior Query Transformer</papertitle_just>     
+  <a href="">
+    <papertitle_just> CPLFormer: Cross-scale Prototype Learning Transformer for Image Snow Removal</papertitle_just>     
   </a>
   <br>
-Yun Liu, Zhongsheng Yan, Sixiang Chen*, <strong>Tian Ye*</strong>, Wenqi Ren, Erkang Chen
-  <br>
-<em>ACM Multimedia (ACM MM)</em>, 2023 <br>
-<a href="https://arxiv.org/pdf/2305.09533.pdf">PDF</a>
-|
-<a href="https://github.com/Owen718/NightHazeFormer">Code</a>
-<p></p>
-</td>
-
-<!-- Paper V  -->
-<!-- ###################################################################################################-->
+Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</strong>, Jun Shi, Erkang Chen
   
-
-
-<!-- ###################################################################################################-->
-<!-- Paper V -->
-<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
-<td width="20%">
-
-<script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// 
-</script>
-</td>
-<td valign="top" width="80%">
-  <a href="https://link.springer.com/chapter/10.1007/978-3-031-19800-7_8">
-    [Image Restoration]<papertitle_just> Perceiving and Modeling Density for Image Dehazing</papertitle_just>     
-  </a>
-  <br>
-  <strong>Tian Ye*</strong>, Yunchen Zhang*, Mingchao Jiang*, Liang Chen, Yun Liu, Erkang Chen. 
-  <!-- <strong>Yeying Jin</strong>, Ruoteng Li, Wenhan Yang, Robby T. Tan
-   -->
-  <br>
-<em>ECCV Oral</em>, 2022 <br>
-<a href="https://link.springer.com/chapter/10.1007/978-3-031-19800-7_8">PDF</a>
+  
+<br>
+<em>ACMMM</em> 2023 <br>
+<a href="">PDF</a>
 |
-<a href="https://github.com/Owen718/ECCV22-Perceiving-and-Modeling-Density-for-Image-Dehazing">Code</a> 
+<a href="">Code</a>
 <p></p>
 </td>
-
-<!-- Paper IV Reflectance, AAAI'23 -->
-<!-- ###################################################################################################-->
-
 
 
 </tbody>
 
 
 # 🎖 Competitions & Awards
-- PG scholarship of HKUST(GZ), 2023.
-- 2022 CVPR NAS Competition Supernet Track: Third Place Solution of Track 1 
-- 2022 JMU Student Star Award  (20/19000)
+- Outstanding Graduate in Jimei University, 2023
+- Second Price of Mathematical Contest In Modeling, 2021
+- First Price of Mathorcup Mathematical Contest in Modeling, 2021.
+- First Price of Mathorcup Mathematical Contest in Modeling, 2022.
 
 
 
 # 💬 Academic Services
-- Conference Reviewer: ACCV 2022&2024, WACV 2023&2024, BMVC 2023, AAAI 2022&2023&2024, ICCV 2023, CVPR 2024, ECCV 2024, ACM MM 2024.
-- Journal Reviewer: 
-
-  International Journal of Computer Vision
-  
-  IEEE Signal Processing Letter
-
-  IEEE Journal of Oceanic Engineering
+- Conference Reviewer: ACMMM 2024.
 
 
 # 📖 Educations&Experience
-
-- Sep'2024-Jul'2028 (expected): PhD Student (Incoming), The Hong Kong University of Science and Technology, Guangzhou Campus.
-
-- Jun'2023-Now: Research Assistant, The Hong Kong University of Science and Technology, Guangzhou Campus.
-  
+- Sep'2023-Jul'2026: Master Student, Xiamen University.
 - Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen.
 
 
