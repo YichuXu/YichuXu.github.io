@@ -145,7 +145,7 @@ I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https:
   <br>
 Yingying Wang, <strong>Yunlong Lin</strong>, Ge Meng, Zhenqi Fu, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding, Yue Huang
 <br>
-<em>ACMMM</em> 2023 <br>
+<em>ACMMM</em> 2023 Oral<br>
 <a href="">PDF</a>
 |
 <a href="">Code</a>
