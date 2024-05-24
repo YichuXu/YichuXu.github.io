@@ -200,7 +200,7 @@ Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</str
 
 
 # 💬 Academic Services
-- Conference Reviewer: ACMMM 2024.
+- Conference Reviewer: ACMMM 2024, NeurIPS 2024.
 
 
 # 📖 Educations&Experience
