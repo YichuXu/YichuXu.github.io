@@ -112,7 +112,7 @@ I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https:
 AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement</papertitle_just>     
   </a>
   <br>
-<strong>Yunlong Lin</strong>, Tian Ye, Sixiang Chen, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
+<strong>Yunlong Lin*</strong>, Tian Ye*, Sixiang Chen*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
 <br>
 <em>Arxiv</em> 2024 <br>
 <a href="https://arxiv.org/pdf/2407.14900">PDF</a>
