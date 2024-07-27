@@ -146,7 +146,7 @@ AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world
 Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint</papertitle_just>     
   </a>
   <br>
-<strong>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and Lei Zhu
+Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and Lei Zhu
 <br>
 <em>ECCV </em> 2024 <br>
 <a href="">PDF</a>
