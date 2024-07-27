@@ -154,6 +154,38 @@ Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and
 <a href="">Code</a>
 <p></p>
 </td>
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+// function submit23__start() {
+// document.getElementById('submit23__image').style.opacity = "1";
+// }
+// function submit23__stop() {
+// document.getElementById('submit23__image').style.opacity = "0";
+// }
+// submit23__stop()
+  
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> Cross-Modality Interaction Network for Pan-sharpening</papertitle_just>     
+  </a>
+  <br>
+Yingying Wang, Xuanhua He, Yuhang Dong, <strong>Yunlong Lin</strong>, Yue Huang, Xinghao Ding<br>
+<em>ACMMM</em> 2023 <br>
+<a href="">PDF</a>
+|
+<a href="">Code</a>
+<p></p>
+</td>
+
 
 <!-- ###################################################################################################-->
 <!-- Paper V -->
