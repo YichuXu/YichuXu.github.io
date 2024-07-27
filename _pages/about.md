@@ -115,9 +115,9 @@ AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world
 <strong>Yunlong Lin</strong>, Tian Ye, Sixiang Chen, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
 <br>
 <em>Arxiv</em> 2024 <br>
-<a href="">PDF</a>
+<a href="https://arxiv.org/pdf/2407.14900">PDF</a>
 |
-<a href="">Code</a>
+<a href="https://aglldiff.github.io">Project</a>
 <p></p>
 </td>
 
