@@ -179,7 +179,7 @@ Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and
   </a>
   <br>
 Yingying Wang, Xuanhua He, Yuhang Dong, <strong>Yunlong Lin</strong>, Yue Huang, Xinghao Ding<br>
-<em>ACMMM</em> 2023 <br>
+<em>TGRS</em> 2024 <br>
 <a href="">PDF</a>
 |
 <a href="">Code</a>
