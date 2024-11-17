@@ -176,6 +176,32 @@ Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and
 <a href="">Code</a>
 <p></p>
 </td>
+
+
+<!-- ###################################################################################################-->
+<td width="20%">
+<script type="text/javascript">
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> 	
+Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting</papertitle_just>     
+  </a>
+  <br>
+  Huangxing Lin, <strong>Yunlong Lin*</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding
+<br>
+<em>Arxiv</em> 2024 <br>
+<a href="">PDF</a>
+|
+<a href="">Code</a>
+<p></p>
+</td>
+
+
+
+
+
 <!-- ###################################################################################################-->
 <!-- Paper V -->
 <!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
