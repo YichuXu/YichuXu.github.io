@@ -189,7 +189,7 @@ Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and
 Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting</papertitle_just>     
   </a>
   <br>
-  Huangxing Lin, <strong>Yunlong Lin*</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding
+  Huangxing Lin, <strong>Yunlong Lin</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding
 <br>
 <em>TCSVT</em> 2024 <br>
 <a href="">PDF</a>
