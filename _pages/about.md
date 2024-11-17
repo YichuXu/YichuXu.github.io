@@ -191,7 +191,7 @@ Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting</pa
   <br>
   Huangxing Lin, <strong>Yunlong Lin*</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding
 <br>
-<em>Arxiv</em> 2024 <br>
+<em>TCSVT</em> 2024 <br>
 <a href="">PDF</a>
 |
 <a href="">Code</a>
@@ -229,7 +229,7 @@ Frequency decoupled domain-irrelevant feature learning for Pan-sharpening</paper
   <br>
 Jie Zhang, Ke Cao, Keyu Yan, <strong>Yunlong Lin</strong>, Xuanhua He, Yingying Wang, Rui Li, Chengjun Xie, Jun Zhang, Man Zhou
 <br>
-<em>Arxiv</em> 2024 <br>
+<em>TCSVT</em> 2024 <br>
 <a href="https://ieeexplore.ieee.org/abstract/document/10718360">PDF</a>
 |
 <a href="">Code</a>
