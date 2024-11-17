@@ -130,13 +130,35 @@ AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world
 <img src='./files/submit23_before.png'> -->
 <!-- </div> -->
 <script type="text/javascript">
-// function submit23__start() {
-// document.getElementById('submit23__image').style.opacity = "1";
-// }
-// function submit23__stop() {
-// document.getElementById('submit23__image').style.opacity = "0";
-// }
-// submit23__stop()
+
+
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> 	
+Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors</papertitle_just>     
+  </a>
+  <br>
+<strong>Yunlong Lin*</strong>, Zhenqi Fu*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding
+<br>
+<em>Arxiv</em> 2024 <br>
+<a href="https://arxiv.org/pdf/2409.18899">PDF</a>
+|
+<a href="https://dplut.github.io/">Project</a>
+<p></p>
+</td>
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+
   
 </script>
 </td>
@@ -170,6 +192,35 @@ Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, and
 // document.getElementById('submit23__image').style.opacity = "0";
 // }
 // submit23__stop()
+
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> 	
+Frequency decoupled domain-irrelevant feature learning for Pan-sharpening</papertitle_just>     
+  </a>
+  <br>
+Jie Zhang, Ke Cao, Keyu Yan, <strong>Yunlong Lin</strong>, Xuanhua He, Yingying Wang, Rui Li, Chengjun Xie, Jun Zhang, Man Zhou
+<br>
+<em>Arxiv</em> 2024 <br>
+<a href="https://ieeexplore.ieee.org/abstract/document/10718360">PDF</a>
+|
+<a href="">Code</a>
+<p></p>
+</td>
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+
+
   
 </script>
 </td>
