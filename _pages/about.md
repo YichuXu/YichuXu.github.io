@@ -114,7 +114,7 @@ AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world
   <br>
 <strong>Yunlong Lin*</strong>, Tian Ye*, Sixiang Chen*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
 <br>
-<em>Arxiv</em> 2024 <br>
+<em>AAAI</em> 2025 <br>
 <a href="https://arxiv.org/pdf/2407.14900">PDF</a>
 |
 <a href="https://aglldiff.github.io">Project</a>
@@ -142,10 +142,69 @@ Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors
   <br>
 <strong>Yunlong Lin*</strong>, Zhenqi Fu*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding
 <br>
-<em>Arxiv</em> 2024 <br>
+<em>AAAI</em> 2025 <br>
 <a href="https://arxiv.org/pdf/2409.18899">PDF</a>
 |
 <a href="https://dplut.github.io/">Project</a>
+<p></p>
+</td>
+
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+
+
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> 	
+Accelerated Diffusion via High-Low Frequency Decomposition for Pan-sharpening</papertitle_just>     
+  </a>
+  <br>
+Ge Meng, Jingjia Huang, Jingyan Tu, Yingying Wang, <strong>Yunlong Lin*</strong>, Xiaotong Tu, Yue Huang, Xinghao Ding 
+<br>
+<em>AAAI</em> 2025 <br>
+<a href="">PDF</a>
+|
+<a href="">code</a>
+<p></p>
+</td>
+
+
+<!-- ###################################################################################################-->
+<!-- Paper V -->
+<!-- <tr onmouseout="submit23__stop()" onmouseover="submit23__start()" > -->
+<td width="20%">
+<!-- <div class="one"> -->
+<!-- <div class="two" id = 'submit23__image'><img src='./files/submit23_after.png'></div>
+<img src='./files/submit23_before.png'> -->
+<!-- </div> -->
+<script type="text/javascript">
+
+
+</script>
+</td>
+<td valign="top" width="80%">
+  <a href="">
+    <papertitle_just> 	
+Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction</papertitle_just>     
+  </a>
+  <br>
+Ge Meng, Jingyan Tu, Jingjia Huang, <strong>Yunlong Lin*</strong>, Yingying Wang,  Xiaotong Tu, Yue Huang, Xinghao Ding 
+<br>
+<em>AAAI</em> 2025 <br>
+<a href="">PDF</a>
+|
+<a href="">code</a>
 <p></p>
 </td>
 
