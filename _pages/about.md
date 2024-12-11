@@ -431,6 +431,7 @@ Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</str
 
 
 # 🎖 Competitions & Awards
+- National Scholarship in Xiamen University, 2024
 - Outstanding Graduate in Jimei University, 2023
 - Second Price of Mathematical Contest In Modeling, 2021
 - First Price of Mathorcup Mathematical Contest in Modeling, 2021.
@@ -439,7 +440,7 @@ Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</str
 
 
 # 💬 Academic Services
-- Conference Reviewer: ACMMM 2024, NeurIPS 2024, ICLR 2025.
+- Conference Reviewer: ACMMM 2024, NeurIPS 2024, ICLR 2025, CVPR 2025.
 
 
 # 📖 Educations&Experience
