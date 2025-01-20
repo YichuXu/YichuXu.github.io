@@ -174,7 +174,7 @@ Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Re
   <br>
 Ge Meng, Jingyan Tu, Jingjia Huang, <strong>Yunlong Lin</strong>, Yingying Wang,  Xiaotong Tu, Yue Huang, Xinghao Ding 
 <br>
-<em>AAAI</em> 2025 <br>
+<em>AAAI</em> 2025 Oral <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
@@ -202,7 +202,7 @@ Accelerated Diffusion via High-Low Frequency Decomposition for Pan-sharpening</p
   <br>
 Ge Meng, Jingjia Huang, Jingyan Tu, Yingying Wang, <strong>Yunlong Lin</strong>, Xiaotong Tu, Yue Huang, Xinghao Ding 
 <br>
-<em>AAAI</em> 2025 <br>
+<em>AAAI</em> 2025 Oral <br>
 <a href="">PDF</a>
 |
 <a href="">code</a>
