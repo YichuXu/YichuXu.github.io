@@ -21,12 +21,13 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Vision and language, Visual reasoning, Generalist models
 - <span style="color: #008B8B">**Inverse Problems**</span>: Real-world degradation restoration, Generative priors  
-- <span style="color: #87CEEB">**AI Agents**</span>: Planning & Decision-Making, Reinforcement learning
+- <span style="color: #87CEEB">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning
 
 
 # 🔥 News
 - Three papers accepted by CVPR'25!
 - Four papers accepted by AAAI'25 (2 oral)!
+- One paper accepted by ECCV'24!
 - Two paper accepted by TGRS'25!
 - Two paper accepted by TCSVT'24!
 - Two paper accepted by TGRS'24!
@@ -65,6 +66,31 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 
 <!-- # 📝 Other Publications  -->
 <ul>
+  <!-- Paper 1 -->
+  <li>
+    <strong>Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction. AAAI 2025 Oral.</strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+        <a href=""> [code]</a>
+    </div>
+    <div><i>Ge Meng, Jingyan Tu, Jingjia Huang, <strong>Yunlong Lin</strong>, Yingying Wang, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
+  </li>
+
+  <!-- ------------------------------------ -->
+
+  <!-- Paper 1 -->
+  <li>
+    <strong>Accelerated Diffusion via High-Low Frequency Decomposition for Pan-sharpening. AAAI 2025 Oral.</strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+        <a href=""> [code]</a>
+    </div>
+    <div><i>Ge Meng, Jingjia Huang, Jingyan Tu, Yingying Wang, <strong>Yunlong Lin</strong>, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
+  </li>
+
+  <!-- ------------------------------------ -->
+
+
   <!-- Paper 1 -->
   <li>
     <strong>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint. ECCV 2024.</strong>
@@ -155,7 +181,7 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 - Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2024, NeurIPS 2024, ICLR 2025, CVPR 2025, ICCV 2025, ACMMM 2025, ICML 2025.
+- Conference Reviewer: ACMMM‘24/25, NeurIPS’24/25, ICLR‘25, CVPR’25, ICCV‘25, ICML 2025.
 
 
 
