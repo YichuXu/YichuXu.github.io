@@ -47,7 +47,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 [**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
 
-**Yunlong Lin\***, ZiXu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, YEYING JIN, Wenbo Li, Xinghao Ding
+**Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
 
 [PDF]() | [Project]()
 </div>
