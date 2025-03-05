@@ -38,13 +38,26 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 </p> -->
 
 <!-- ------------------------------------ -->
+
+<!-- Paper 1 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/jarvisir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
+
+**Yunlong Lin\***, ZiXu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, YEYING JIN, Wenbo Li, Xinghao Ding
+
+[PDF]() | [Project]()
+</div>
+</div>
+
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/aglldiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement**](https://arxiv.org/pdf/2407.14900)
 
-**Yunlong Lin**, Tian Ye*, Sixiang Chen*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
+**Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
 
 [PDF](https://arxiv.org/pdf/2407.14900) | [Project](https://aglldiff.github.io)
 </div>
@@ -57,7 +70,7 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 
 [**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**](https://arxiv.org/pdf/2409.18899)
 
-**Yunlong Lin**, Zhenqi Fu*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding
+**Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding
 
 [PDF](https://arxiv.org/pdf/2409.18899) | [Project](https://dplut.github.io/)
 </div>
