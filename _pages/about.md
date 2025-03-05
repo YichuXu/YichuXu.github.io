@@ -40,7 +40,7 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 <!-- ------------------------------------ -->
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/jarvisir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/jarvisir.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
