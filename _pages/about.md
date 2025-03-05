@@ -23,6 +23,8 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 - <span style="color: #008B8B">**Inverse Problems**</span>: Real-world degradation restoration, Generative priors  
 - <span style="color: #87CEEB">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning
 
+I am actively seeking collaborations and currently looking for PhD positions! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems.
+
 
 # 🔥 News
 - Three papers accepted by CVPR'25!
