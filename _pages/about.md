@@ -81,6 +81,33 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 <!-- # 📝 Other Publications  -->
 <ul>
+
+  <!-- Paper 1 -->
+  <li>
+    <strong>SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization. CVPR 2025.</strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+        <a href=""> [code]</a>
+    </div>
+    <div><i>Jianyu Lai, Sixiang Chen, <strong>Yunlong Lin</strong>, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.</i></div>
+  </li>
+
+  <!-- ------------------------------------ -->
+
+
+  <!-- Paper 1 -->
+  <li>
+    <strong>Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
+    <div style="display: inline">
+        <a href=""> [paper]</a>
+        <a href=""> [code]</a>
+    </div>
+    <div><i>Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, <strong>Yunlong Lin</strong>, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.</i></div>
+  </li>
+
+  <!-- ------------------------------------ -->
+
+  
   <!-- Paper 1 -->
   <li>
     <strong>Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction. AAAI 2025 Oral.</strong>
