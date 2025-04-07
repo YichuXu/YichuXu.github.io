@@ -49,7 +49,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 **Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
 
-[PDF](https://github.com/LYL1015/LYL1015.github.io/blob/master/papers/CVPR2025_JarvisIR.pdf) | [Project](https://cvpr2025-jarvisir.github.io/)
+[<a href="./papers/CVPR2025_JarvisIR.pdf">PDF</a>] | [Project](https://cvpr2025-jarvisir.github.io/)
 </div>
 </div>
 
