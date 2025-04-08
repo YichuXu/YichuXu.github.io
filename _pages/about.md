@@ -59,7 +59,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 [**AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement**](https://arxiv.org/pdf/2407.14900)
 
-**Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding
+**Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding.
 
 [PDF](https://arxiv.org/pdf/2407.14900) | [Project](https://aglldiff.github.io)
 </div>
@@ -72,25 +72,29 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 [**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**](https://arxiv.org/pdf/2409.18899)
 
-**Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding
+**Yunlong Lin\***, Zhenqi Fu\*, Kairun Wen, Tian Ye, Sixiang Chen, Ge Meng, Yingying Wang, Yue Huang, Xiaotong Tu, Xinghao Ding.
 
 [PDF](https://arxiv.org/pdf/2409.18899) | [Project](https://dplut.github.io/)
 </div>
 </div>
 
 
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/snowmaster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization**]()
+
+Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.
+
+[PDF]() | [Project]()
+</div>
+</div>
+
 <!-- # 📝 Other Publications  -->
 <ul>
 
   <!-- Paper 1 -->
-  <li>
-    <strong>SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization. CVPR 2025.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Jianyu Lai, Sixiang Chen, <strong>Yunlong Lin</strong>, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.</i></div>
-  </li>
 
   <!-- ------------------------------------ -->
 
