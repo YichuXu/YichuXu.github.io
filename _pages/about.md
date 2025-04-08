@@ -49,7 +49,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 
 **Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
 
-[<a href="./papers/CVPR2025_JarvisIR.pdf">PDF</a>] | [Project](https://cvpr2025-jarvisir.github.io/)
+[<a href="./papers/CVPR2025_JarvisIR.pdf">PDF</a>] | [Project](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR)
 </div>
 </div>
 
@@ -223,7 +223,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 - Sep'2019-Jul'2023: B.Eng (Telecommunication Engineering), Jimei University, Xiamen
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM‘24/25, NeurIPS’24/25, ICLR‘25, CVPR’25, ICCV‘25, ICML 2025.
+- Conference Reviewer: ACMMM 2024/2025, NeurIPS 2024/2025, ICLR 2025, CVPR 2025, ICCV 2025, ICML 2025.
 
 
 
