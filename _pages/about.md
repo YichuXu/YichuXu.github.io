@@ -47,7 +47,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 <!-- ------------------------------------ -->
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/jarvisir.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" controls></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
