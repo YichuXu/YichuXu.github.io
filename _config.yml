@@ -61,7 +61,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  wechat           : "https://github.com/LYL1015/LYL1015.github.io/blob/master/images/weixin.jpg"  # 将weixin改为wechat，因为模板可能只识别wechat字段
+  # wechat           : "https://github.com/LYL1015/LYL1015.github.io/blob/master/images/weixin.jpg"  # 将weixin改为wechat，因为模板可能只识别wechat字段
 
 
 # Reading Files
