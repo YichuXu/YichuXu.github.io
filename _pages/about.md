@@ -67,7 +67,7 @@ I am actively seeking collaborations and currently looking for **26 fall PhD pos
 
 **Yunlong Lin\***, Tian Ye\*, Sixiang Chen\*, Zhenqi Fu, Yingying Wang, Wenhao Chai, Zhaohu Xing, Lei Zhu, Xinghao Ding.
 
-[PDF](https://arxiv.org/pdf/2407.14900) | [Project](https://aglldiff.github.io)
+[PDF](https://arxiv.org/pdf/2407.14900) | [Project](https://aglldiff.github.io) | [Code](https://github.com/LYL1015/AGLLDiff)
 </div>
 </div>
 
