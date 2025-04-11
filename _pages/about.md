@@ -22,8 +22,9 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Vision and language, Visual reasoning, Generalist models
 - <span style="color: #008B8B">**Inverse Problems**</span>: Real-world degradation restoration, Generative priors  
 - <span style="color: #87CEEB">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning
+- <span style="color:rgb(226, 96, 10)">**Spatial Intelligence**</span>: 3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action
 
-I am actively seeking collaborations and currently looking for PhD positions! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
+I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
 # 📱 Contact
 - **WeChat**: lyl20136148
@@ -59,7 +60,7 @@ I am actively seeking collaborations and currently looking for PhD positions! If
 </div>
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/papers/aglldiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><video src='images/papers/LIE.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**AGLLDiff: Guiding Diffusion Models Towards Unsupervised Training-free Real-world Low-light Image Enhancement**](https://arxiv.org/pdf/2407.14900)
