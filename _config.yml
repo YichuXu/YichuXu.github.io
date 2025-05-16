@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yunlong Lin"
+title                    : "Xu Zhang"
 description              : ""
-repository               : "LYL1015/LYL1015.github.io"
+repository               : "House-yuyu/House-yuyu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -25,14 +25,14 @@ favicon                  : "images/favicon-32x32.png"  # 添加网站图标路�
 
 # Site Author
 author:
-  name             : "Yunlong Lin"
+  name             : "Xu Zhang"
   avatar           : "images/photo1.jpg"
-  bio              : "Xiamen University"
-  location         : "Xiamen, China"
+  bio              : "Wuhan University"
+  location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=5F3tICwAAAAJ&hl=zh-CN"
-  email            : "linyl@stu.xmu.edu.cn"
+  googlescholar    : "‪https://scholar.google.com.hk/citations?user=xDDy-DwAAAAJ&hl=zh-CN"
+  email            : "zhangx0802@whu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LYL1015"
+  github           : "House-yuyu"
   google_plus      :
   keybase          :
   instagram        :
