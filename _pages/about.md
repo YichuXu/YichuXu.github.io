@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen University (XMU) @[SmartDSP](https://xmu-smartdsp.github.io/) advised by [Prof. Xinghao Ding](https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
+Welcome to my academic homepage. I am Xu Zhang (张旭), a Master student at Xiamen University (XMU) @[SmartDSP](https://xmu-smartdsp.github.io/) advised by [Prof. Xinghao Ding](https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
 
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Vision and language, Visual reasoning, Generalist models
 - <span style="color: #008B8B">**Inverse Problems**</span>: Real-world degradation restoration, Generative priors  
@@ -27,8 +27,8 @@ Welcome to my academic homepage. I am Yunlong Lin, a Master student at Xiamen Un
 I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
 
 # 📱 Contact
-- **WeChat**: lyl20136148
-- **Email**: linyl@stu.xmu.edu.cn
+- **WeChat**: ZhangXu_0802
+- **Email**: zhangx0802@whu.edu.cn
 
 
 
