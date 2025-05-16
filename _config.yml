@@ -20,7 +20,7 @@ bing_site_verification   :  # get bing_site_verification from https://www.bing.c
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # 网站图标设置
-favicon                  : "images/favicon-32x32.png"  # 添加网站图标路径
+favicon                  : "images/favicon-32x32.jpg"  # 添加网站图标路径
 # logo                     : "images/logo.png"     # 添加网站logo路径
 
 # Site Author
