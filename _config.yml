@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Zhang/张旭"
+title                    : "Xu Zhang"
 description              : ""
 repository               : "House-yuyu/House-yuyu.github.io"
 google_scholar_stats_use_cdn : true
@@ -25,7 +25,7 @@ favicon                  : "images/favicon-32x32.jpg"  # 添加网站图标路�
 
 # Site Author
 author:
-  name             : "Xu Zhang"
+  name             : "Xu Zhang/张旭"
   avatar           : "images/photo1.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
@@ -41,7 +41,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "House-yuyu"
+  github           : "https://github.com/House-yuyu"
   google_plus      :
   keybase          :
   instagram        :
