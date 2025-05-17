@@ -20,11 +20,11 @@ redirect_from:
 Welcome to my academic homepage. I am Xu Zhang (张旭), a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, and autonomous action. Key research areas and methodologies include:
 
 - <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
-<!- <span style="color: #87CEEB">**AI Image quality evaluation**</span>: Image/Video quality assessment}>
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Generalist models, Visual reasoning
-<!- <span style="color:rgb(226, 96, 10)">**Spatial Intelligence**</span>: 3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action}>
+
 
 {%I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems.} 
+
 
 # 📱 Contact
 - **WeChat**: ZhangXu_0802
