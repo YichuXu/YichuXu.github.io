@@ -17,14 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Xu Zhang (张旭), a Master student at Xiamen University (XMU) @[SmartDSP](https://xmu-smartdsp.github.io/) advised by [Prof. Xinghao Ding](https://scholar.google.com.hk/citations?user=k5hVBfMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement and scene reconstruction, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, decision-making, and autonomous action. Key research areas and methodologies include:
+Welcome to my academic homepage. I am Xu Zhang (张旭), a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). My research focuses on advancing computational photography for visual enhancement, developing multimodal learning frameworks for cross-modal understanding, contextual reasoning, and adaptive skill acquisition, and building intelligent agents capable of perception, and autonomous action. Key research areas and methodologies include:
 
-- <span style="color: #FFB6C1">**Multimodal learning**</span>: Vision and language, Visual reasoning, Generalist models
-- <span style="color: #008B8B">**Inverse Problems**</span>: Real-world degradation restoration, Generative priors  
-- <span style="color: #87CEEB">**AI Agents**</span>: Planning and Decision-Making, Reinforcement learning
-- <span style="color:rgb(226, 96, 10)">**Spatial Intelligence**</span>: 3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action
+- <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
+{%- <span style="color: #87CEEB">**AI Image quality evaluation**</span>: Image/Video quality assessment}
+- <span style="color: #FFB6C1">**Multimodal learning**</span>: Generalist models, Visual reasoning
+{%- <span style="color:rgb(226, 96, 10)">**Spatial Intelligence**</span>: 3D Environment Perception, LLM-based Spatial Reasoning, Agent-driven Decision-making and Action}
 
-I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems. 
+{%I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems.} 
 
 # 📱 Contact
 - **WeChat**: ZhangXu_0802
@@ -33,13 +33,8 @@ I am actively seeking collaborations and currently looking for **26 fall PhD pos
 
 
 # 🔥 News
-- Three papers accepted by CVPR'25!
-- Four papers accepted by AAAI'25 (2 oral)!
-- One paper accepted by ECCV'24!
-- Two paper accepted by TGRS'25!
-- Two paper accepted by TCSVT'24!
-- Two paper accepted by TGRS'24!
-- Three papers accepted by ACMMM'23 (1 oral)!
+- 2025.04: One paper accepted by TIP'25!
+
 
 # 📝 Publications
 <!-- <p style='text-align: justify;'> My current research focuses on three main areas: <strong>(I)</strong> Addressing the challenges of real-world image restoration and enhancement by identifying and overcoming the limitations of existing learning-based methods. <strong>(II)</strong> Exploring vision problems related to photography, with the goal of producing images of superior visual quality. <strong>(III)</strong> Providing support for the art creation industry and digital asset generation through advancements in AIGC (Artificial Intelligence Generated Content) technology.
