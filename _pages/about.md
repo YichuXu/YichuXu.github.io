@@ -23,9 +23,6 @@ Welcome to my academic homepage. I am Xu Zhang (张旭), a Ph.D. candidate at Wu
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Generalist models, Visual reasoning
 
 
-{%I am actively seeking collaborations and currently looking for **26 fall PhD positions**! If you are interested in working together or have potential PhD opportunities, please feel free to reach out to me. I am eager to join teams or labs that value innovation in AI-driven perception, cross-modal learning, and AI agent systems.} 
-
-
 # 📱 Contact
 - **WeChat**: ZhangXu_0802
 - **Email**: zhangx0802@whu.edu.cn
