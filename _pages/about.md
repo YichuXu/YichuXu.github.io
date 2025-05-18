@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). My research interests include:
+Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with Prof. Weisi Lin from NTU. My research interests include:
 
 - <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
-- <span style="color: #FFB6C1">**Multimodal learning**</span>: Generalist models, Visual reasoning
+- <span style="color: #FFB6C1">**Multimodal learning**</span>: Text-to-Image generation, Diffusion model
 
 
 # 📱 Contact
@@ -39,6 +39,8 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 <!-- ------------------------------------ -->
 
+* Equal contribution, # Corresponding authors.
+
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,7 +54,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 </div>
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><video src='images/papers/LIE.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><video src='images/papers/LIE.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
