@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with Prof. Weisi Lin from NTU. My research interests include:
+Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from NTU. My research interests include:
 
 - <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Text-to-Image generation, Diffusion model
@@ -34,12 +34,11 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 # 📝 Publications
-<!-- <p style='text-align: justify;'> My current research focuses on three main areas: <strong>(I)</strong> Addressing the challenges of real-world image restoration and enhancement by identifying and overcoming the limitations of existing learning-based methods. <strong>(II)</strong> Exploring vision problems related to photography, with the goal of producing images of superior visual quality. <strong>(III)</strong> Providing support for the art creation industry and digital asset generation through advancements in AIGC (Artificial Intelligence Generated Content) technology.
 </p> -->
 
 <!-- ------------------------------------ -->
 
-* Equal contribution, # Corresponding authors.
+Note: * Equal contribution, # Corresponding authors.
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
@@ -139,88 +138,56 @@ Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaoh
 
   <!-- Paper 1 -->
   <li>
-    <strong>Teaching Tailored to Talent: Adverse Weather Restoration via Prompt Pool and Depth-Anything Constraint. ECCV 2024.</strong>
+    <strong>Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. Digital Signal Processing 2025.</strong>
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
     </div>
-    <div><i>Sixiang Chen, Tian Ye, Kai Zhang, Zhaohu Xing, <strong>Yunlong Lin</strong>, Lei Zhu</i></div>
+    <div><i>Huan Zhang, Zhijun Xiong, <strong>Xu Zhang</strong>, Jiangzhong Cao, Yun Zhang</i></div>
   </li>
 
   <!-- ------------------------------------ -->
   <!-- Paper 2 -->
   <li>
-    <strong>Fusion2Void: Unsupervised Multi-focus Image Fusion Based on Image Inpainting. TCSVT 2024.</strong>
+    <strong>Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. Expert Systems with Applications 2025.</strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0957417424027209"> [paper]</a>
         <a href=""> [code]</a>
     </div>
-    <div><i>Huangxing Lin, <strong>Yunlong Lin</strong>, Jingyuan Xia, Linyu Fan, Feifei Li, Yingying Wang, Xinghao Ding</i></div>
+    <div><i>Huan Zhang, <strong>Xu Zhang</strong>, Linwei Zhu, Yun Zhang, Jiangzhong Cao, Wing-Kuen Ling</i></div>
   </li>
 
   <!-- ------------------------------------ -->
   <!-- Paper 3 -->
   <li>
-    <strong>Frequency decoupled domain-irrelevant feature learning for Pan-sharpening. TCSVT 2024.</strong>
+    <strong>Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. Pattern Recognition 2025.</strong>
     <div style="display: inline">
-        <a href="https://ieeexplore.ieee.org/abstract/document/10718360"> [paper]</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S003132032500055X"> [paper]</a>
         <a href=""> [code]</a>
     </div>
-    <div><i>Jie Zhang, Ke Cao, Keyu Yan, <strong>Yunlong Lin</strong>, Xuanhua He, Yingying Wang, Rui Li, Chengjun Xie, Jun Zhang, Man Zhou</i></div>
+    <div><i>Jiangzhong Cao, Zekai Zeng, <strong>Xu Zhang</strong>, Huan Zhang, Chunling Fan, Gangyi Jiang, Weisi Lin</i></div>
   </li>
 
   <!-- ------------------------------------ -->
   <!-- Paper 4 -->
   <li>
-    <strong>Cross-Modality Interaction Network for Pan-sharpening. TGRS 2024.</strong>
+    <strong>A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. Energy 2024.</strong>
     <div style="display: inline">
-        <a href=""> [paper]</a>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
         <a href=""> [code]</a>
     </div>
-    <div><i>Yingying Wang, Xuanhua He, Yuhang Dong, <strong>Yunlong Lin</strong>, Yue Huang, Xinghao Ding</i></div>
+    <div><i>Nian Cai, Xiaoping Que, <strong>Xu Zhang</strong>, Weiguo Feng, Yinghong Zhou</i></div>
   </li>
 
   <!-- ------------------------------------ -->
   <!-- Paper 5 -->
-  <li>
-    <strong>Domain-irrelevant Feature Learning for Generalizable Pan-sharpening. ACMMM 2023.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i><strong>Yunlong Lin</strong>, Zhenqi Fu, Ge Meng, Yingying Wang, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding</i></div>
-  </li>
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 6 -->
-  <li>
-    <strong>Learning High-frequency Feature Enhancement and Alignment for Pan-sharpening. ACMMM 2023 Oral.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Yingying Wang, <strong>Yunlong Lin</strong>, Ge Meng, Zhenqi Fu, Yuhang Dong, Linyu Fan, Hedeng Yu, Xinghao Ding, Yue Huang</i></div>
-  </li>
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 7 -->
-  <li>
-    <strong>CPLFormer: Cross-scale Prototype Learning Transformer for Image Snow Removal. ACMMM 2023.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Sixiang Chen, Tian Ye, Yun Liu, Jinbin Bai, Haoyu Chen, <strong>Yunlong Lin</strong>, Jun Shi, Erkang Chen</i></div>
-  </li>
 </ul>
 
 
-# 🎖 Honors and Awards
-- National Scholarship in Xiamen University, 2024
-- Outstanding Graduate in Jimei University, 2023
-- Second Price of Mathematical Contest In Modeling, 2021
-- First Price of Mathorcup Mathematical Contest in Modeling, 2021
-- First Price of Mathorcup Mathematical Contest in Modeling, 2022
+<!-- # 🎖 Honors and Awards -->
+<!-- - National Scholarship in Xiamen University, 2024 -->
+<!-- - Outstanding Graduate in Jimei University, 2023 -->
+
 
 <!-- # 📖 Educations -->
 <!-- - Sep'2023-Jul'2026: Master Student, Xiamen University -->
