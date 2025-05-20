@@ -78,6 +78,21 @@ Note: * Equal contribution, # Corresponding authors.
 </div>
 
 
+
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**](https://arxiv.org/pdf/2411.07893)
+
+Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
+
+[PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
+</div>
+</div>
+
+
+
 <!-- Paper 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/papers/AFDformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -90,18 +105,6 @@ Note: * Equal contribution, # Corresponding authors.
 </div>
 </div>
 
-
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Joint multi-dimensional dynamic attention and transformer for general image restoration**](https://arxiv.org/pdf/2411.07893)
-
-Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
-
-[PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
-</div>
-</div>
 
 
 <!-- # 📝 Other Publications  -->
@@ -150,7 +153,7 @@ Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
   <!-- ------------------------------------ -->
   <!-- Paper 4 -->
   <li>
-    A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. </strong>Energy 2024</strong>.
+    A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. <strong>Energy 2024</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
         <a href=""> [code]</a>
