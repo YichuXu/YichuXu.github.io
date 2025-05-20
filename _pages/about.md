@@ -22,6 +22,8 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 - <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
 - <span style="color: #FFB6C1">**Multimodal learning**</span>: Text-to-Image generation, Diffusion model
 
+📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
+
 
 # 📱 Contact
 - **WeChat**: ZhangXu_0802
@@ -88,8 +90,24 @@ Note: * Equal contribution, # Corresponding authors.
 </div>
 </div>
 
+
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Joint multi-dimensional dynamic attention and transformer for general image restoration**](https://arxiv.org/pdf/2411.07893)
+
+Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
+
+[PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
+</div>
+</div>
+
+
 <!-- # 📝 Other Publications  -->
 <ul>
+
+
 
   <!-- Paper 1 -->
   <li>
@@ -100,6 +118,8 @@ Note: * Equal contribution, # Corresponding authors.
     </div>
     <div><i>Huan Zhang, Zhijun Xiong, <strong>Xu Zhang</strong>, Jiangzhong Cao, Yun Zhang</i></div>
   </li>
+
+
 
   <!-- ------------------------------------ -->
   <!-- Paper 2 -->
@@ -112,6 +132,8 @@ Note: * Equal contribution, # Corresponding authors.
     <div><i>Huan Zhang, <strong>Xu Zhang</strong>, Linwei Zhu, Yun Zhang, Jiangzhong Cao, Wing-Kuen Ling</i></div>
   </li>
 
+
+
   <!-- ------------------------------------ -->
   <!-- Paper 3 -->
   <li>
@@ -123,10 +145,12 @@ Note: * Equal contribution, # Corresponding authors.
     <div><i>Jiangzhong Cao, Zekai Zeng, <strong>Xu Zhang</strong>, Huan Zhang, Chunling Fan, Gangyi Jiang, Weisi Lin</i></div>
   </li>
 
+
+
   <!-- ------------------------------------ -->
   <!-- Paper 4 -->
   <li>
-    <strong>A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. Energy 2024.</strong>
+    A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. </strong>Energy 2024</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
         <a href=""> [code]</a>
@@ -134,9 +158,12 @@ Note: * Equal contribution, # Corresponding authors.
     <div><i>Nian Cai, Xiaoping Que, <strong>Xu Zhang</strong>, Weiguo Feng, Yinghong Zhou</i></div>
   </li>
 
+
+
   <!-- ------------------------------------ -->
   <!-- Paper 5 -->
 </ul>
+
 
 
 <!-- # 🎖 Honors and Awards -->
@@ -144,9 +171,12 @@ Note: * Equal contribution, # Corresponding authors.
 <!-- - Outstanding Graduate in Jimei University, 2023 -->
 
 
+
 <!-- # 📖 Educations -->
 <!-- - Sep'2023-Jul'2026: Master Student, Xiamen University -->
 <!-- - Sep'2016-Jul'2020: B.Eng, Jimei University, Xiamen -->
+
+
 
 # 💬 Academic Service
 - Conference Reviewer: ACMMM 2025, ICLR 2024/2025.
