@@ -114,7 +114,7 @@ Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
 
   <!-- Paper 1 -->
   <li>
-    <strong>Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. Digital Signal Processing 2025.</strong>
+    Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. <strong>Digital Signal Processing 2025</strong>.
     <div style="display: inline">
         <a href=""> [paper]</a>
         <a href=""> [code]</a>
@@ -127,7 +127,7 @@ Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
   <!-- ------------------------------------ -->
   <!-- Paper 2 -->
   <li>
-    <strong>Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. Expert Systems with Applications 2025.</strong>
+    Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. <strong>Expert Systems with Applications 2025</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S0957417424027209"> [paper]</a>
         <a href=""> [code]</a>
@@ -140,7 +140,7 @@ Huan Zhang, **Xu Zhang\#**, Nian Cai\#, Jianglei Di, Yun Zhang
   <!-- ------------------------------------ -->
   <!-- Paper 3 -->
   <li>
-    <strong>Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. Pattern Recognition 2025.</strong>
+    Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. <strong>Pattern Recognition 2025</strong>.
     <div style="display: inline">
         <a href="https://www.sciencedirect.com/science/article/pii/S003132032500055X"> [paper]</a>
         <a href=""> [code]</a>
