@@ -39,19 +39,19 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 Note: * Equal contribution, # Corresponding authors.
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><video src='images/papers/jarvisir.mp4' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**JarvisIR: Elevating Autonomous Driving Perception with Intelligent Image Restoration**]()
+[**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
 
-**Yunlong Lin\***, Zixu Lin\*, Haoyu Chen\*, Panwang Pan\*, Chenxin Li, Sixiang Chen, Kairun Wen, Yeying Jin, Wenbo Li, Xinghao Ding
+**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[<a href="./papers/CVPR2025_JarvisIR.pdf">PDF</a>] | [Project](https://cvpr2025-jarvisir.github.io/) | [Code](https://github.com/LYL1015/JarvisIR)
+[Project]() | [Project]()
 </div>
 </div>
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><video src='images/papers/Perceive-IR.png' alt="sym" width="100%" autoplay loop muted></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/Perceive-IR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
@@ -69,7 +69,7 @@ Note: * Equal contribution, # Corresponding authors.
 
 [**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
 
-**Xu Zhang\***, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
+**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
 [PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR)
 </div>
@@ -80,59 +80,16 @@ Note: * Equal contribution, # Corresponding authors.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/papers/AFDformer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**SnowMaster: Comprehensive Real-world Image Desnowing via MLLM with Multi-Model Feedback Optimization**]()
+[**AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109)
 
-Jianyu Lai\*, Sixiang Chen\*, **Yunlong Lin**, Tian Ye, Yun Liu, Song Fei, Zhaohu Xing, Hongtao Wu, Weiming Wang, Lei Zhu.
+**Xu Zhang**; Nian Cai; Huan Zhang; Yun Zhang; Jianglei Di; Weisi Lin.
 
-[PDF]() | [Code]()
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
 </div>
 </div>
 
 <!-- # 📝 Other Publications  -->
 <ul>
-
-  <!-- Paper 1 -->
-
-  <!-- ------------------------------------ -->
-
-
-  <!-- Paper 1 -->
-  <li>
-    <strong>Track Any Anomalous Object:A Granular Video Anomaly Detection Pipeline. CVPR 2025.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, <strong>Yunlong Lin</strong>, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.</i></div>
-  </li>
-
-  <!-- ------------------------------------ -->
-
-  
-  <!-- Paper 1 -->
-  <li>
-    <strong>Sp3ctralMamba: Physics-Driven Joint State Space Model for Hyperspectral Image Reconstruction. AAAI 2025 Oral.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Ge Meng, Jingyan Tu, Jingjia Huang, <strong>Yunlong Lin</strong>, Yingying Wang, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
-  </li>
-
-  <!-- ------------------------------------ -->
-
-  <!-- Paper 1 -->
-  <li>
-    <strong>Accelerated Diffusion via High-Low Frequency Decomposition for Pan-sharpening. AAAI 2025 Oral.</strong>
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Ge Meng, Jingjia Huang, Jingyan Tu, Yingying Wang, <strong>Yunlong Lin</strong>, Xiaotong Tu, Yue Huang, Xinghao Ding</i></div>
-  </li>
-
-  <!-- ------------------------------------ -->
-
 
   <!-- Paper 1 -->
   <li>
