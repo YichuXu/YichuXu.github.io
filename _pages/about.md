@@ -67,11 +67,11 @@ Note: * Equal contribution, # Corresponding authors.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/UniUIR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Unsupervised Low-light Image Enhancement with Lookup Tables and Diffusion Priors**](https://arxiv.org/pdf/2409.18899)
+[**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
 
 **Xu Zhang\***, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[PDF](https://arxiv.org/pdf/2409.18899) | [Project](https://house-yuyu.github.io/UniUIR)
+[PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR)
 </div>
 </div>
 
