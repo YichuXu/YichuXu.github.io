@@ -20,7 +20,7 @@ redirect_from:
 Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from NTU. My research interests include:
 
 - <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
-- <span style="color: #FFB6C1">**Multimodal learning**</span>: Text-to-Image generation, Diffusion model
+- <span style="color: #FFB6C1">**Multimodal Learning**</span>: Text-to-Image generation, Diffusion model
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
 
