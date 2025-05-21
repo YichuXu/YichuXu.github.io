@@ -38,7 +38,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 # 📝 Publications
 <!-- ------------------------------------ -->
 
-Note: * Equal contribution, # Corresponding authors.
+### **(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
