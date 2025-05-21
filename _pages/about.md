@@ -38,7 +38,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 # 📝 Publications
 <!-- ------------------------------------ -->
 
-### **(<sup>*</sup> equal contribution, <sup>#</sup> corresponding author)**
+### **(* equal contribution, <sup>#</sup> corresponding author)**
 
 <!-- Paper 1 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
@@ -58,7 +58,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 [**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
 
-**Xu Zhang<sup>*</sup>**, Jiaqi Ma<sup>*</sup>, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang.
+**Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang.
 
 [PDF](https://arxiv.org/pdf/2408.15994) | [Project](https://house-yuyu.github.io/Perceive-IR) 
 </div>
