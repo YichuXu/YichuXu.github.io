@@ -48,7 +48,7 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 **Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[Project]() | [Project]()
+[PDF]() | [Project]()
 </div>
 </div>
 
