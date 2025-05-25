@@ -84,7 +84,7 @@ Di Wang, Meiqi Hu, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu**, Xiaolei Qin, 
 
 <!-- ------------------------------------ -->
 <!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/papers/S3ANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/my_papers/S3ANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification**](https://ieeexplore.ieee.org/document/10478963)
@@ -97,7 +97,7 @@ Di Wang, Meiqi Hu, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu**, Xiaolei Qin, 
 
 <!-- ------------------------------------ -->
 <!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/my_papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
@@ -109,7 +109,7 @@ Di Wang, Meiqi Hu, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu**, Xiaolei Qin, 
 </div>
 
 <!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 20</div><img src='images/papers/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 20</div><img src='images/my_papers/GRSL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**A Low-Rank and Sparse Matrix DecompositionBased Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
