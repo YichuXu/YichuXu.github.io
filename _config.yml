@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xu Zhang"
+title                    : "Yichu Xu"
 description              : ""
 repository               : ""
 google_scholar_stats_use_cdn : true
@@ -25,15 +25,15 @@ favicon                  : "images/favicon-32x32.jpg"
 
 # Site Author
 author:
-  name             : "Xu Zhang/张旭"
+  name             : "Yichu Xu （徐一楚）"
   avatar           : "images/photo1.jpg"
   bio              : "Wuhan University"
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
-  googlescholar    : "‪https://scholar.google.com.hk/citations?user=xDDy-DwAAAAJ"
-  email            : "zhangx0802@whu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en&oi=ao"
+  email            : "xuyichu@whu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Yichu-Xu?ev=prf_overview"
   uri              :
   bitbucket        :
   codepen          :
@@ -41,13 +41,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "House-yuyu"
+  github           : "YichuXu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
