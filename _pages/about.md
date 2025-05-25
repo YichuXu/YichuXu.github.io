@@ -35,7 +35,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 - 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
 - 2025.03: 🎉 A co-first author paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence! 
 - 2025.02: 🎉 A paper is accepted by Neural Networks!
-- 
+- 2024.03: 🎉 A paper is accepted by IEEE TGRS!
 
 
 # 📝 Publications
