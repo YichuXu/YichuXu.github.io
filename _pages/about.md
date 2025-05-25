@@ -33,9 +33,9 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 # 🔥 News
 - 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
-- 2025.03: 🎉 A co-first author paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence! 
+- 2025.03: 🎉 A co-first author paper is accepted by IEEE TPAMI! 
 - 2025.02: 🎉 A paper is accepted by Neural Networks!
-- 
+- 2024.03: 🎉 A paper is accepted by IEEE TGRS!
 
 
 # 📝 Publications
@@ -49,7 +49,8 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 [**HyperSIGMA: Hyperspectral Intelligence  Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
 
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
+Di Wang, Meiqi Hu, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu**, Xiaolei Qin, Jiaqi Ma, Lingyu Sun, Chenxing Li, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
+
 
 [PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
 </div>
@@ -126,7 +127,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 [**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
 
-Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, Yichu Xu.
+Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
 
 [PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
 </div>
