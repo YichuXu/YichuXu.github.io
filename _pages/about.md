@@ -17,22 +17,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN) and [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). Before that, I obtained a M.Eng degree from Guangdong University of Technology (GDUT) advised by [Dr. Huan Zhang](https://scholar.google.com.hk/citations?user=bJjd_kMAAAAJ&hl=zh-CN) and [Prof. Nian Cai](https://scholar.google.com.hk/citations?user=hxDRrEQAAAAJ&hl=zh-CN). I’m fortunate to work closely with [Prof. Weisi Lin](https://scholar.google.com.hk/citations?user=D_S41X4AAAAJ&hl=zh-CN) from NTU. My research interests include:
+Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). My research interests include:
 
-- <span style="color: #008B8B">**Low-level Vision Perception**</span>: All-in-One image restoration, Image/Video quality assessment  
-- <span style="color: #FFB6C1">**Multimodal Learning**</span>: Text-to-Image generation, Diffusion model
+- <span style="color: #008B8B">**Remote Sensing Image Interpretation**</span>: Hyperspectral Image Classification, Hyperspectral Target/ Anomaly Detection  
+- <span style="color: #FFB6C1">**Remote Sensing Foundation Model**</span>
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
 
 
 # 📱 Contact
-- **WeChat**: ZhangXu_0802
-- **Email**: zhangx0802@whu.edu.cn
+- **WeChat**: Yichu_Xu
+- **Email**: xuyichu@whu.edu.cn
 
 
 
 # 🔥 News
-- 2025.04: 🎉 One paper accepted by TIP'25!
+- 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
+- 2025.03: 🎉 A co-first author paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence! 
+- 2025.02: 🎉 A paper is accepted by Neural Networks!
+- 
 
 
 # 📝 Publications
@@ -41,26 +44,27 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 ### **(* equal contribution, <sup>#</sup> corresponding author)**
 
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/ClearAIR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ClearAIR: A Human-Visual-Perception-Inspired All-in-One Image Restoration**]()
+[**HyperSIGMA: Hyperspectral Intelligence  Comprehension Foundation Model**]()
 
 **Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[PDF]() | [Project]()
+[PDF]() | [Project]() | [Code]()
 </div>
 </div>
 
+
 <!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/papers/Perceive-IR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
 
 **Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang.
 
-[PDF](https://arxiv.org/pdf/2408.15994) | [Project](https://house-yuyu.github.io/Perceive-IR) 
+[PDF](https://arxiv.org/pdf/2408.15994) | [Code]() 
 </div>
 </div>
 
@@ -79,111 +83,11 @@ Welcome to my academic homepage. I am Xu Zhang, a Ph.D. candidate at Wuhan Unive
 
 
 
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/MDDAformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Joint Multi-dimensional Dynamic Attention and Transformer for General Image Restoration**](https://arxiv.org/pdf/2411.07893)
-
-Huan Zhang, **Xu Zhang<sup>#</sup>**, Nian Cai<sup>#</sup>, Jianglei Di, Yun Zhang
-
-[PDF](https://arxiv.org/pdf/2411.07893) | [Code](https://github.com/House-yuyu/MDDA-former)
-</div>
-</div>
-
-
-
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2023</div><img src='images/papers/AFDformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**AFD-Former: A Hybrid Transformer With Asymmetric Flow Division for Synthesized View Quality Enhancement**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109)
-
-**Xu Zhang**; Nian Cai; Huan Zhang; Yun Zhang; Jianglei Di; Weisi Lin.
-
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10036109) | [Code](https://github.com/House-yuyu/AFD-former)
-</div>
-</div>
-
-
-
-<!-- # 📝 Other Publications  -->
-<ul>
-
-
-
-  <!-- Paper 1 -->
-  <li>
-    Texture and Structural Distortion Metric based on Dual-Tree Complex Wavelet Transform for DIBR-synthesized Image Quality Assessment. <strong>Digital Signal Processing 2025</strong>.
-    <div style="display: inline">
-        <a href=""> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Huan Zhang, Zhijun Xiong, <strong>Xu Zhang</strong>, Jiangzhong Cao, Yun Zhang</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 2 -->
-  <li>
-    Enhancing 3D video watching experiences: Tackling compression and 3D warping distortions in synthesized view with perceptual guidance. <strong>Expert Systems with Applications 2025</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0957417424027209"> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Huan Zhang, <strong>Xu Zhang</strong>, Linwei Zhu, Yun Zhang, Jiangzhong Cao, Wing-Kuen Ling</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 3 -->
-  <li>
-    Unveiling the underwater world: CLIP perception model-guided underwater image enhancement. <strong>Pattern Recognition 2025</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S003132032500055X"> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Jiangzhong Cao, Zekai Zeng, <strong>Xu Zhang</strong>, Huan Zhang, Chunling Fan, Gangyi Jiang, Weisi Lin</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 4 -->
-  <li>
-    A deep learning framework for the joint prediction of the SOH and RUL of lithium-ion batteries based on bimodal images. <strong>Energy 2024</strong>.
-    <div style="display: inline">
-        <a href="https://www.sciencedirect.com/science/article/pii/S0360544224014737"> [paper]</a>
-        <a href=""> [code]</a>
-    </div>
-    <div><i>Nian Cai, Xiaoping Que, <strong>Xu Zhang</strong>, Weiguo Feng, Yinghong Zhou</i></div>
-  </li>
-
-
-
-  <!-- ------------------------------------ -->
-  <!-- Paper 5 -->
-</ul>
-
-
-
-<!-- # 🎖 Honors and Awards -->
-<!-- - National Scholarship in Xiamen University, 2024 -->
-<!-- - Outstanding Graduate in Jimei University, 2023 -->
-
-
-
-<!-- # 📖 Educations -->
-<!-- - Sep'2023-Jul'2026: Master Student, Xiamen University -->
-<!-- - Sep'2016-Jul'2020: B.Eng, Jimei University, Xiamen -->
-
 
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2025, ICLR 2024/2025.
-- Journal Reviewer: TIP, TNNLS, TCSVT, TMM, TGRS, GRSL.
+- Conference Reviewer: ACMMM 2025, ICME 2025.
+- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, ISPRS P&RS, JSTARS, GRSL, IF, NN.
 
 
 
