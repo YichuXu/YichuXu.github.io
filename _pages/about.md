@@ -35,7 +35,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 - 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
 - 2025.03: 🎉 A co-first author paper is accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence! 
 - 2025.02: 🎉 A paper is accepted by Neural Networks!
-- 2024.03: 🎉 A paper is accepted by IEEE TGRS!
+- 
 
 
 # 📝 Publications
@@ -47,47 +47,96 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**HyperSIGMA: Hyperspectral Intelligence  Comprehension Foundation Model**]()
+[**HyperSIGMA: Hyperspectral Intelligence  Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
 
 **Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
 
-[PDF]() | [Project]() | [Code]()
+[PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
 </div>
 </div>
 
 
-<!-- Paper 1 -->
+<!-- Paper 2 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/my_papers/MambaMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**](https://arxiv.org/abs/2504.20509)
+
+**Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
+
+[PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/DSFormer) 
+</div>
+</div>
+
+
+<!-- Paper 2 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**](https://arxiv.org/pdf/2408.15994)
+[**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171)
 
-**Xu Zhang\***, Jiaqi Ma\*, Guoli Wang, Qian Zhang, Huan Zhang, Lefei Zhang.
+**Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
 
-[PDF](https://arxiv.org/pdf/2408.15994) | [Code]() 
+[PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
 </div>
 </div>
 
 <!-- ------------------------------------ -->
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/UniUIR.png' alt="sym" width="100%"></div></div>
+<!-- Paper 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/papers/S3ANet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**UniUIR: Considering Underwater Image Restoration as An All-in-One Learner**](https://arxiv.org/pdf/2501.12981)
+[**S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification**](https://ieeexplore.ieee.org/document/10478963)
 
-**Xu Zhang**, Huan Zhang, Guoli Wang, Qian Zhang, Lefei Zhang, Bo Du.
+**Yichu Xu**, Yonghao Xu, Hongzan Jiao, Zhi Gao, Lefei Zhang.
 
-[PDF](https://arxiv.org/pdf/2501.12981) | [Project](https://house-yuyu.github.io/UniUIR)
+[PDF](https://ieeexplore.ieee.org/document/10478963) | [Code](https://github.com/YichuXu/S3ANet) 
+</div>
+</div>
+
+<!-- ------------------------------------ -->
+<!-- Paper 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
+
+**Yichu Xu**, Lefei Zhang, Bo Du, Liangpei Zhang.
+
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
+</div>
+</div>
+
+<!-- Paper 3 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 20</div><img src='images/papers/GRSL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**A Low-Rank and Sparse Matrix DecompositionBased Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
+
+**Yichu Xu**, Bo Du, Liangpei Zhang, Shizhen Chang.
+
+[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
 </div>
 </div>
 
 
+<!-- Paper 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 25</div><img src='images/my_papers/HSANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
+
+Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, Yichu Xu.
+
+[PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
+</div>
+</div>
 
 
 
 # 💬 Academic Service
 - Conference Reviewer: ACMMM 2025, ICME 2025.
-- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, ISPRS P&RS, JSTARS, GRSL, IF, NN.
+- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P&RS, IF, NN.
 
 
 
