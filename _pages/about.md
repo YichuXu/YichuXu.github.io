@@ -82,6 +82,20 @@ Di Wang\*, Meiqi Hu\*, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu\***, Xiaolei
 </div>
 </div>
 
+
+<!-- Paper 4 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 25</div><img src='images/my_papers/HSANet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
+
+Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
+
+[PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
+</div>
+</div>
+
+
 <!-- ------------------------------------ -->
 <!-- Paper 3 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/my_papers/S3ANet.png' alt="sym" width="100%"></div></div>
@@ -121,23 +135,13 @@ Di Wang\*, Meiqi Hu\*, Yao Jin, Yuchun Miao, Jiaqi Yang, **Yichu Xu\***, Xiaolei
 </div>
 
 
-<!-- Paper 4 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 25</div><img src='images/my_papers/HSANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
-
-Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
-
-[PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
-</div>
-</div>
 
 
 
 # 💬 Academic Service
 - Conference Reviewer: ACMMM 2025, ICME 2025.
-- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P&RS, IF, NN.
+- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P\&RS, IF, NN.
 
 
 
