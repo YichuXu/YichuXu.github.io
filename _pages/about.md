@@ -19,7 +19,7 @@ redirect_from:
 
 Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). My research interests include:
 
-- <span style="color: #008B8B">**Remote Sensing Image Interpretation**</span>: Hyperspectral Image Classification, Hyperspectral Target/ Anomaly Detection  
+- <span style="color: #008B8B">**Remote Sensing Image Interpretation**</span>: Hyperspectral Image Classification, Hyperspectral Target/ Anomaly Detection, Change Detection  
 - <span style="color: #FFB6C1">**Remote Sensing Foundation Model**</span>
 
 📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to concat.
@@ -35,6 +35,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 - 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
 - 2025.03: 🎉 A co-first author paper is accepted by IEEE TPAMI! 
 - 2025.02: 🎉 A paper is accepted by Neural Networks!
+- 2025.01: 🎉 Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***.
 - 2024.03: 🎉 A paper is accepted by IEEE TGRS!
 
 
