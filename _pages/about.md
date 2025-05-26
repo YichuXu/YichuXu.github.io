@@ -32,11 +32,12 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
-- 2025.03: 🎉 A co-author paper is accepted by IEEE IGARSS! 
-- 2025.03: 🎉 A co-first author paper is accepted by IEEE TPAMI! 
-- 2025.02: 🎉 A paper is accepted by Neural Networks!
-- 2025.01: 🎉 Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
-- 2024.03: 🎉 A paper is accepted by IEEE TGRS!
+- 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) | [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) | [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
+- 2025.03: A co-author paper is accepted by IEEE IGARSS! 
+- 2025.03: A co-first author paper is accepted by IEEE TPAMI! 
+- 2025.02: A paper is accepted by Neural Networks!
+- 2025.01: Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
+- 2024.03: A paper is accepted by IEEE TGRS!
 
 
 # 📝 Publications
@@ -48,7 +49,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**HyperSIGMA: Hyperspectral Intelligence  Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
+[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
 
