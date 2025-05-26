@@ -32,7 +32,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
-- 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) | [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) | [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
+- 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm)|[武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg)|[遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
 - 2025.03: A co-author paper is accepted by IEEE IGARSS! 
 - 2025.03: A co-first author paper is accepted by IEEE TPAMI! 
 - 2025.02: A paper is accepted by Neural Networks!
