@@ -63,7 +63,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 [**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**](https://arxiv.org/abs/2504.20509)
 
-**Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
+**Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
 
 [PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/DSFormer) 
 </div>
@@ -76,7 +76,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 [**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171)
 
-**Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
+**Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
 
 [PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
 </div>
