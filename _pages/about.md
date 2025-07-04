@@ -150,8 +150,8 @@ Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
 
 
 # 💬 Academic Service
-- Conference Reviewer: ACMMM 2025, ICME 2025.
-- Journal Reviewer: TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P\&RS, IF, NN.
+- Conference Reviewer: CVPR, ICCV, IJCAI, AAAI, ACMMM, ICME
+- Journal Reviewer: TPAMI, TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P\&RS, IF, NN.
 
 
 
