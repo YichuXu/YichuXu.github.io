@@ -32,6 +32,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
+- 2025.10: Our [MambaMoE](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ) is accepted by Information Fusion!
 - 2025.06: AIRS-2025开发大赛赛道二：「星际矿脉」火星矿物高光谱分类挑战赛铜奖 3/121 [AIRS-2025](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ).
 - 2025.06: HyperSIGMA入选VALSE 2025人气海报奖 11/398 [VALSE](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ).
 - 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) • [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) • [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
@@ -62,7 +63,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/my_papers/MambaMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/my_papers/MambaMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**](https://arxiv.org/abs/2504.20509)
@@ -75,7 +76,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 
 <!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NN 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171)
