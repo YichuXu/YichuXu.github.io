@@ -34,7 +34,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 # 🔥 News
 - 2025.10: Our [MambaMoE](https://arxiv.org/abs/2504.20509) is accepted by Information Fusion!
 - 2025.06: AIRS-2025开发大赛赛道二：「星际矿脉」火星矿物高光谱分类挑战赛铜奖 3/121 [AIRS-2025](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ).
-- 2025.06: HyperSIGMA入选VALSE 2025人气海报奖 11/398 [VALSE](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ).
+- 2025.06: HyperSIGMA入选VALSE 2025人气海报奖 2/398 [VALSE](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ).
 - 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) • [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) • [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
 - 2025.03: A co-author paper is accepted by IEEE IGARSS! 
 - 2025.03: A co-first author paper is accepted by IEEE TPAMI! 
