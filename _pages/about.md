@@ -70,7 +70,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 **Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
 
-[PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/DSFormer) 
+[PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/MambaMoE) 
 </div>
 </div>
 
