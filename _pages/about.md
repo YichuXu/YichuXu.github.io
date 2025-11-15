@@ -32,6 +32,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
+- 2025.11: Our paper [**DSFormer**](https://www.sciencedirect.com/science/article/pii/S089360802500190X), [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) have been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
 - 2025.10: Our [PHDMamba](https://arxiv.org/abs/2504.20509) is accepted by IEEE GRSL!
 - 2025.10: Our [MambaMoE](https://arxiv.org/abs/2504.20509) is accepted by Information Fusion!
 - 2025.06: AIRS-2025开发大赛赛道二：「星际矿脉」火星矿物高光谱分类挑战赛铜奖 3/121 [AIRS-2025](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ).
