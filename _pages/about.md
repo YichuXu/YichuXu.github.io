@@ -54,7 +54,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519)
+[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519) (***<font color="red">ESI Highly Cited Paper</font>***)
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
 
@@ -81,7 +81,7 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171)
+[**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171) (***<font color="red">ESI Highly Cited Paper</font>***)
 
 **Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
 
@@ -121,7 +121,7 @@ Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/my_papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
+[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) (***<font color="red">ESI Highly Cited Paper</font>***)
 
 **Yichu Xu**, Lefei Zhang, Bo Du, Liangpei Zhang.
 
