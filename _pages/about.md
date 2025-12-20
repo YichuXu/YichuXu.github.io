@@ -94,7 +94,6 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 **Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
 
 [PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
-
 </div>
 </div>
 
