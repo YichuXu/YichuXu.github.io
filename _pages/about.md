@@ -59,15 +59,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
 
-
 [PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
-
-<br> News: [<a href="https://mp.weixin.qq.com/s/tYqe95Ip-fRBM57F2F5rvw">IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型</a>]
-                       [<a href="https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg">测国重新闻报道</a>]
-                       [<a href="https://www.nsfc.gov.cn/p1/3381/2825/79262.html">基金委新闻报道</a>]
-                       [<a href="https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw">数据代码模型均开源! HyperSIGMA高光谱遥感基础模型</a>]
-                       [<b><a href="https://valser.org/2025/#/poster"><font color="#FF0000">VALSE 2025人气海报</font></a></b>]
-
 </div>
 </div>
 
