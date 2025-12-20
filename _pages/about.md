@@ -95,6 +95,8 @@ News:[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](h
 **Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
 
 [PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
+
+News:[用于高光谱分类的双重选择融合Transformer网络, 代码开源](https://mp.weixin.qq.com/s/anZEu-M9D_A_rItBzPuAIQ) | 
 </div>
 </div>
 
