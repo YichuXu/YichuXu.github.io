@@ -62,7 +62,8 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 [PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
 
-News:[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](https://mp.weixin.qq.com/s/tYqe95Ip-fRBM57F2F5rvw) | 
+**News:**  
+[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](https://mp.weixin.qq.com/s/tYqe95Ip-fRBM57F2F5rvw) | 
 [测国重新闻报道](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) | 
 [基金委新闻报道](https://www.nsfc.gov.cn/p1/3381/2825/79262.html) | 
 [遥感与深度学习公众号](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw) |
@@ -96,7 +97,8 @@ News:[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](h
 
 [PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
 
-News:[用于高光谱分类的双重选择融合Transformer网络, 代码开源](https://mp.weixin.qq.com/s/anZEu-M9D_A_rItBzPuAIQ) | 
+**News:**  
+[用于高光谱分类的双重选择融合Transformer网络, 代码开源](https://mp.weixin.qq.com/s/anZEu-M9D_A_rItBzPuAIQ) | 
 </div>
 </div>
 
