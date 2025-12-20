@@ -62,7 +62,12 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 [PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
 
-News:[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](https://mp.weixin.qq.com/s/tYqe95Ip-fRBM57F2F5rvw) | [测国重新闻报道](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) | [基金委新闻报道](https://www.nsfc.gov.cn/p1/3381/2825/79262.html) | [遥感与深度学习公众号](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw) | [***<font color="red">VALSE 2025 人气海报奖</font>***](https://valser.org/2025/#/poster) | [2025中国遥感优秀成果奖一等奖](https://www.nsfc.gov.cn/p1/3381/2825/79262.html)
+News:[IEEE GRSS Wuhan: 全球首个十亿级高光谱智能理解基础模型](https://mp.weixin.qq.com/s/tYqe95Ip-fRBM57F2F5rvw) | 
+[测国重新闻报道](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) | 
+[基金委新闻报道](https://www.nsfc.gov.cn/p1/3381/2825/79262.html) | 
+[遥感与深度学习公众号](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw) |
+[***<font color="red">VALSE 2025 人气海报奖</font>***](https://valser.org/2025/#/poster) | 
+[2025中国遥感优秀成果奖一等奖](https://www.nsfc.gov.cn/p1/3381/2825/79262.html)
 
 </div>
 </div>
