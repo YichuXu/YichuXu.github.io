@@ -95,8 +95,6 @@ Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, X
 
 [PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
 
-**News:**  
-[用于高光谱分类的双重选择融合Transformer网络, 代码开源](https://mp.weixin.qq.com/s/anZEu-M9D_A_rItBzPuAIQ) | 
 </div>
 </div>
 
