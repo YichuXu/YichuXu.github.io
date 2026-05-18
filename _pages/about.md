@@ -56,7 +56,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519) (***<font color="red">ESI Highly Cited Paper</font>***)
+[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519) (***<font color="red">ESI Hot Paper</font>***) (***<font color="red">ESI Highly Cited Paper</font>***)
 
 Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
 
