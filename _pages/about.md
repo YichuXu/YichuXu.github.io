@@ -32,6 +32,7 @@ Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan Unive
 
 
 # 🔥 News
+- 2026.08: A co-author paper has been accepted by IEEE TGRS! 
 - 2026.07: A corresponding author paper has been accepted by IEEE TGRS! 
 - 2026.05: Our paper [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) has been selected as ***<font color="red">ESI Hot Paper (TOP 0.1%)</font>***！.
 - 2025.11: HyperSIGMA高光谱遥感影像智能理解基础模型入选2025年中国遥感优秀成果一等奖（理论类）.
