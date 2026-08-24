@@ -1,0 +1,121 @@
+{
+  "wang2025hypersigma": {
+    "id": "wang2025hypersigma",
+    "type": "article-journal",
+    "title": "HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model",
+    "author": [
+      { "family": "Wang", "given": "Di" },
+      { "family": "Hu", "given": "Meiqi" },
+      { "family": "Jin", "given": "Yao" },
+      { "family": "Miao", "given": "Yuchun" },
+      { "family": "Yang", "given": "Jiaqi" },
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Qin", "given": "Xiaolei" },
+      { "family": "Ma", "given": "Jiaqi" },
+      { "family": "Sun", "given": "Lingyu" },
+      { "family": "Li", "given": "Chenxing" },
+      { "family": "Fu", "given": "Chuan" },
+      { "family": "Chen", "given": "Hongruixuan" },
+      { "family": "Han", "given": "Chengxi" },
+      { "family": "Yokoya", "given": "Naoto" },
+      { "family": "Zhang", "given": "Jing" },
+      { "family": "Xu", "given": "Minqiang" },
+      { "family": "Liu", "given": "Lin" },
+      { "family": "Zhang", "given": "Lefei" },
+      { "family": "Wu", "given": "Chen" },
+      { "family": "Du", "given": "Bo" },
+      { "family": "Tao", "given": "Dacheng" },
+      { "family": "Zhang", "given": "Liangpei" }
+    ],
+    "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "URL": "https://ieeexplore.ieee.org/abstract/document/10949864",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "xu2025mambamoe": {
+    "id": "xu2025mambamoe",
+    "type": "article-journal",
+    "title": "MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Wang", "given": "Di" },
+      { "family": "Jiao", "given": "Hongzan" },
+      { "family": "Zhang", "given": "Lefei" },
+      { "family": "Zhang", "given": "Liangpei" }
+    ],
+    "container-title": "Information Fusion",
+    "URL": "https://arxiv.org/abs/2504.20509",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "xu2025dsformer": {
+    "id": "xu2025dsformer",
+    "type": "article-journal",
+    "title": "Dual Selective Fusion Transformer Network for Hyperspectral Image Classification",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Wang", "given": "Di" },
+      { "family": "Zhang", "given": "Lefei" },
+      { "family": "Zhang", "given": "Liangpei" }
+    ],
+    "container-title": "Neural Networks",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S089360802500190X",
+    "issued": { "date-parts": [[2025]] }
+  },
+  "xu2024s3anet": {
+    "id": "xu2024s3anet",
+    "type": "article-journal",
+    "title": "S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Xu", "given": "Yonghao" },
+      { "family": "Jiao", "given": "Hongzan" },
+      { "family": "Gao", "given": "Zhi" },
+      { "family": "Zhang", "given": "Lefei" }
+    ],
+    "container-title": "IEEE Transactions on Geoscience and Remote Sensing",
+    "URL": "https://ieeexplore.ieee.org/document/10478963",
+    "issued": { "date-parts": [[2024]] }
+  },
+  "xu2022overview": {
+    "id": "xu2022overview",
+    "type": "article-journal",
+    "title": "Hyperspectral Anomaly Detection Based on Machine Learning: An Overview",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Zhang", "given": "Lefei" },
+      { "family": "Du", "given": "Bo" },
+      { "family": "Zhang", "given": "Liangpei" }
+    ],
+    "container-title": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+    "URL": "https://ieeexplore.ieee.org/document/9760098",
+    "issued": { "date-parts": [[2022]] }
+  },
+  "xu2020lowrank": {
+    "id": "xu2020lowrank",
+    "type": "article-journal",
+    "title": "A Low-Rank and Sparse Matrix Decomposition-Based Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Du", "given": "Bo" },
+      { "family": "Zhang", "given": "Liangpei" },
+      { "family": "Chang", "given": "Shizhen" }
+    ],
+    "container-title": "IEEE Geoscience and Remote Sensing Letters",
+    "URL": "https://ieeexplore.ieee.org/document/8869927",
+    "issued": { "date-parts": [[2020]] }
+  },
+  "han2025hsanet": {
+    "id": "han2025hsanet",
+    "type": "paper-conference",
+    "title": "HSANet: A Hybrid Self-Cross Attention Network for Remote Sensing Change Detection",
+    "author": [
+      { "family": "Han", "given": "Chengxi" },
+      { "family": "Su", "given": "Xiaoyu" },
+      { "family": "Wei", "given": "Zhiqiang" },
+      { "family": "Hu", "given": "Meiqi" },
+      { "family": "Xu", "given": "Yichu" }
+    ],
+    "container-title": "IEEE International Geoscience and Remote Sensing Symposium",
+    "URL": "https://arxiv.org/abs/2504.15170",
+    "issued": { "date-parts": [[2025]] }
+  }
+}

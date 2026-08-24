@@ -3,162 +3,98 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about-me"></span>
 
-<span class='anchor' id='about-me'></span>
+<div class="lang-en" markdown="1">
 
-Welcome to my academic homepage. I am Yichu Xu, a Ph.D. candidate at Wuhan University (WHU) @[Sigma](https://sigma.whu.edu.cn/) advised by [Prof. Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), [Prof. Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN) and [Prof. Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). My research interests include:
+👋 Welcome to my academic homepage. I am **Yichu Xu (徐一楚)**, a Ph.D. candidate at [Wuhan University (WHU)](https://www.whu.edu.cn/) in the [Sigma Group](https://sigma.whu.edu.cn/), advised by Prof. [Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN), and Prof. [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). {% include google-scholar-badge.html inline=true %}
 
-- <span style="color: #008B8B">**Remote Sensing Image Interpretation**</span>: Hyperspectral Image Classification, Hyperspectral Target/ Anomaly Detection, Change Detection  
-- <span style="color: #FFB6C1">**Remote Sensing Foundation Model**</span>
+🔍 My research interests include:
 
-📧 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact.
+- **<span style="color: #2b7a9b;">Remote Sensing Image Interpretation</span>**: Hyperspectral Image Classification, Hyperspectral Target/Anomaly Detection, and Change Detection.
+- **<span style="color: #8a5bb7;">Remote Sensing Foundation Models</span>**.
 
+🤝 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me at [xuyichu@whu.edu.cn](mailto:xuyichu@whu.edu.cn) or via WeChat (`Yichu_Xu`).
 
-# 📱 Contact
-- **WeChat**: Yichu_Xu
-- **Email**: xuyichu@whu.edu.cn
-
-
-
-# 🔥 News
-- 2026.08: A co-author paper has been accepted by IEEE TGRS! 
-- 2026.07: A corresponding author paper has been accepted by IEEE TGRS! 
-- 2026.05: Our paper [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) has been selected as ***<font color="red">ESI Hot Paper (TOP 0.1%)</font>***！.
-- 2025.11: HyperSIGMA高光谱遥感影像智能理解基础模型入选2025年中国遥感优秀成果一等奖（理论类）.
-- 2025.11: Our paper [**DSFormer**](https://www.sciencedirect.com/science/article/pii/S089360802500190X), [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) have been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
-- 2025.10: Our [PHDMamba](https://arxiv.org/abs/2504.20509) is accepted by IEEE GRSL!
-- 2025.10: Our [MambaMoE](https://arxiv.org/abs/2504.20509) is accepted by Information Fusion!
-- 2025.06: AIRS-2025开发大赛赛道二：「星际矿脉」火星矿物高光谱分类挑战赛铜奖 3/121 [AIRS-2025](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ).
-- 2025.06: HyperSIGMA入选VALSE 2025人气海报奖 2/398 [VALSE](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ).
-- 2025.04: HyperSIGMA首个十亿级高光谱智能理解大模型 [基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm) • [武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg) • [遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)
-- 2025.03: A co-author paper is accepted by IEEE IGARSS! 
-- 2025.03: A co-first author paper is accepted by IEEE TPAMI! 
-- 2025.02: A paper is accepted by Neural Networks!
-- 2025.01: Our paper [**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) has been selected as ***<font color="red">ESI Highly Cited Papers (TOP 1%)</font>***！.
-- 2024.03: A paper is accepted by IEEE TGRS!
-
-
-# 📝 Publications
-<!-- ------------------------------------ -->
-
-### **(* equal contribution, <sup>#</sup> corresponding author)**
-
-<!-- Paper 1 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2025</div><img src='images/my_papers/HyperSIGMA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model**](https://arxiv.org/abs/2406.11519) (***<font color="red">ESI Hot Paper</font>***) (***<font color="red">ESI Highly Cited Paper</font>***)
-
-Di Wang\*, Meiqi Hu\*, Yao Jin\*, Yuchun Miao\*, Jiaqi Yang\*, **Yichu Xu\***, Xiaolei Qin\*, Jiaqi Ma\*, Lingyu Sun\*, Chenxing Li\*, Chuan Fu, Hongruixuan Chen, Chengxi Han, Naoto Yokoya, Jing Zhang, Minqiang Xu, Lin Liu, Lefei Zhang, Chen Wu, Bo Du, Dacheng Tao, Liangpei Zhang. 
-
-[PDF](https://arxiv.org/abs/2406.11519) | [Project](https://whu-sigma.github.io/HyperSIGMA/) | [Code](https://github.com/WHU-Sigma/HyperSIGMA)
-</div>
 </div>
 
+<div class="lang-zh" markdown="1">
 
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Information Fusion 2025</div><img src='images/my_papers/MambaMoE.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+👋 欢迎来到我的学术主页！我是**徐一楚（Yichu Xu）**，现为[武汉大学](https://www.whu.edu.cn/) [Sigma 团队](https://sigma.whu.edu.cn/)博士研究生，导师为[张乐飞](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN)教授、[杜博](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN)教授和[张良培](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)教授。{% include google-scholar-badge.html inline=true %}
 
-[**MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification**](https://arxiv.org/abs/2504.20509)
+🔍 我的研究方向包括：
 
-**Yichu Xu**, Di Wang, Hongzan Jiao, Lefei Zhang, Liangpei Zhang.
+- **<span style="color: #2b7a9b;">遥感影像智能解译</span>**：高光谱影像分类、高光谱目标/异常检测与变化检测。
+- **<span style="color: #8a5bb7;">遥感基础模型</span>**。
 
-[PDF](https://arxiv.org/abs/2504.20509) | [Code](https://github.com/YichuXu/MambaMoE) 
-</div>
-</div>
+🤝 欢迎科研合作与交流，可通过邮箱 [xuyichu@whu.edu.cn](mailto:xuyichu@whu.edu.cn) 或微信（`Yichu_Xu`）联系我。
 
-
-<!-- Paper 2 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neural Networks 2025</div><img src='images/my_papers/DSFormer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**Dual selective fusion transformer network for hyperspectral image classification**](https://arxiv.org/abs/2410.03171) (***<font color="red">ESI Highly Cited Paper</font>***)
-
-**Yichu Xu**, Di Wang, Lefei Zhang, Liangpei Zhang.
-
-[PDF](https://arxiv.org/abs/2410.03171) | [Code](https://github.com/YichuXu/DSFormer) 
-</div>
 </div>
 
+# <span class="lang-en">🔥 News</span><span class="lang-zh">🔥 新闻动态</span>
+{: #news}
 
-<!-- Paper 4 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IGARSS 25</div><img src='images/my_papers/HSANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class="news-scroll" markdown="1">
 
-[**HSANET: A Hybrid Self-Cross Attention Network For Remote Sensing Change Detection**](https://arxiv.org/abs/2504.15170)
+{% include news.html %}
 
-Chengxi Han, Xiaoyu Su, Zhiqiang Wei, Meiqi Hu, **Yichu Xu<sup>#</sup>** .
-
-[PDF](https://arxiv.org/abs/2504.15170) | [Code](https://github.com/ChengxiHAN/HSANet) 
-</div>
 </div>
 
+# <span class="lang-en">📝 Publications</span><span class="lang-zh">📝 论文发表</span>
+{: #publications}
 
-<!-- ------------------------------------ -->
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 24</div><img src='images/my_papers/S3ANet.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+{% include publications.html %}
 
-[**S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification**](https://ieeexplore.ieee.org/document/10478963)
+# <span class="lang-en">🏅 Honors and Awards</span><span class="lang-zh">🏅 荣誉奖项</span>
+{: #honors}
 
-**Yichu Xu**, Yonghao Xu, Hongzan Jiao, Zhi Gao, Lefei Zhang.
+{% include honors.html %}
 
-[PDF](https://ieeexplore.ieee.org/document/10478963) | [Code](https://github.com/YichuXu/S3ANet) 
-</div>
-</div>
+# <span class="lang-en">👫 Collaboration</span><span class="lang-zh">👫 合作伙伴</span>
+{: #collaboration}
 
-<!-- ------------------------------------ -->
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 22</div><img src='images/my_papers/HAD_Overview.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [Shizhen Chang (常世桢)](https://shizhenchang.github.io/), [Yonghao Xu (徐永浩)](https://yonghaoxu.github.io/), [Di Wang (王迪)](https://dotwang.github.io/), [Chengxi Han (韩承熙)](https://chengxihan.github.io/)
+- [Meiqi Hu (胡美琪)](https://meiqihu.github.io/), [Yao Jin (金垚)](https://scholar.google.com/citations?hl=en&user=PBqyF80AAAAJ), [Yuchun Miao (苗雨春)](https://scholar.google.com/citations?hl=en&user=-ec3mwUAAAAJ), [Jiaqi Yang (杨佳琪)](https://jqyang22.github.io/)
+- [Xiaolei Qin (秦晓蕾)](https://scholar.google.com/citations?user=gFKE4TMAAAAJ&hl=en), [Jiaqi Ma (马嘉祺)](https://leonmakise.github.io/), [Lingyu Sun (孙凌瑜)](https://github.com/KiwiLYu), [Chenxing Li (李辰星)](https://ieeexplore.ieee.org/author/37089818143)
+- [Chuan Fu (付川)](https://www.researchgate.net/profile/Fu-Chuan), [Hongruixuan Chen (陈洪瑞轩)](https://chrx97.com/)
 
-[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) (***<font color="red">ESI Highly Cited Paper</font>***)
+# <span class="lang-en">📋 Academic Service</span><span class="lang-zh">📋 学术服务</span>
+{: #services}
 
-**Yichu Xu**, Lefei Zhang, Bo Du, Liangpei Zhang.
+<div class="lang-en" markdown="1">
 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098)
-</div>
-</div>
+## Conference Reviewer
 
-<!-- Paper 3 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 20</div><img src='images/my_papers/GRSL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- CVPR, ICCV, IJCAI, AAAI, ACM Multimedia, and ICME.
 
-[**A Low-Rank and Sparse Matrix DecompositionBased Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
+## Journal Reviewer
 
-**Yichu Xu**, Bo Du, Liangpei Zhang, Shizhen Chang.
+- IEEE TPAMI, TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, and GRSL.
+- ISPRS Journal of Photogrammetry and Remote Sensing, Information Fusion, Neural Networks, and Visual Intelligence.
 
-[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927)
-</div>
 </div>
 
-# 👫 Collaboration
-[Shizhen Chang (常世桢)](https://shizhenchang.github.io/), [Yonghao Xu (徐永浩)](https://yonghaoxu.github.io/), [Di Wang (王迪)](https://dotwang.github.io/), [Chengxi Han (韩承熙)](https://chengxihan.github.io/)  
-[Meiqi Hu (胡美琪)](https://meiqihu.github.io/), [Yao Jin (金垚)](https://scholar.google.com/citations?hl=en&user=PBqyF80AAAAJ), [Yuchun Miao (苗雨春)](https://scholar.google.com/citations?hl=en&user=-ec3mwUAAAAJ), [Jiaqi Yang (杨佳琪)](https://jqyang22.github.io/)  
-[Xiaolei Qin (秦晓蕾)](https://scholar.google.com/citations?user=gFKE4TMAAAAJ&hl=en), [Jiaqi Ma (马嘉祺)](https://leonmakise.github.io/), [Lingyu Sun (孙凌瑜)](https://github.com/KiwiLYu), [Chenxing Li (李辰星)](https://ieeexplore.ieee.org/author/37089818143)  
-[Chuan Fu (付川)](https://www.researchgate.net/profile/Fu-Chuan), [Hongruixuan Chen (陈洪瑞轩)](https://chrx97.com/)
+<div class="lang-zh" markdown="1">
 
+## 会议审稿人
 
+- CVPR、ICCV、IJCAI、AAAI、ACM Multimedia 和 ICME。
 
+## 期刊审稿人
 
+- IEEE TPAMI、TIP、TCSVT、TNNLS、TMM、TGRS、JSTARS 和 GRSL。
+- ISPRS Journal of Photogrammetry and Remote Sensing、Information Fusion、Neural Networks 和 Visual Intelligence。
 
+</div>
 
-# 💬 Academic Service
-- Conference Reviewer: CVPR, ICCV, IJCAI, AAAI, ACMMM, ICME
-- Journal Reviewer: TPAMI, TIP, TCSVT, TNNLS, TMM, TGRS, JSTARS, GRSL, ISPRS P\&RS, IF, NN, Visual Intelligence.
-
-
+<details class="misc-collapse" markdown="1">
+<summary><span class="collapse-icon">▶</span> <span class="lang-en">Visitor Map</span><span class="lang-zh">访客地图</span></summary>
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jacK9ggqHSefN4z3yvCMPbr34roVzQhT1qc6eb2yeTA&cl=ffffff&w=a"></script>
+
+</details>

@@ -7,9 +7,22 @@
 
 # Site Settings
 title                    : "Yichu Xu"
-description              : ""
-repository               : ""
+url                      : "https://yichuxu.github.io"
+baseurl                  : ""
+description              : "Remote sensing image interpretation and foundation models."
+description_zh           : "遥感影像智能解译与遥感基础模型。"
+seo_title                : "Yichu Xu (徐一楚) | Remote Sensing and AI"
+seo_description          : "Academic homepage of Yichu Xu (徐一楚), a Ph.D. candidate at Wuhan University, focusing on hyperspectral image interpretation and remote sensing foundation models."
+repository               : "YichuXu/YichuXu.github.io"
 google_scholar_stats_use_cdn : true
+google_scholar:
+  id: "CxKy4lEAAAAJ"
+  stats_branch: "google-scholar-stats"
+  stats_file: "gs_data.json"
+  stats_cdn_base_urls:
+    - "https://cdn.jsdmirror.com/gh"
+    - "https://cdn.jsdelivr.net/gh"
+  raw_base_url: "https://raw.githubusercontent.com"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -25,16 +38,22 @@ favicon                  : "images/1-32x32.png"
 
 # Site Author
 author:
-  name             : "Yichu Xu （徐一楚）"
+  name             : "Yichu Xu (徐一楚)"
+  name_zh          : "徐一楚"
+  citation_name:
+    given: "Yichu"
+    family: "Xu"
   avatar           : "images/Yichu.jpg"
   bio              : "Wuhan University"
+  bio_zh           : "武汉大学"
   location         : "Wuhan, China"
+  location_zh      : "中国，武汉"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CxKy4lEAAAAJ&hl=en&oi=ao"
   email            : "xuyichu@whu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Yichu-Xu?ev=prf_overview"
-  uri              :
+  uri              : "https://yichuxu.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -47,7 +66,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "linkedin username"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

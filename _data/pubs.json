@@ -1,0 +1,121 @@
+{
+  "journal": [
+    {
+      "id": "wang2025hypersigma",
+      "title": "HyperSIGMA: Hyperspectral Intelligence Comprehension Foundation Model",
+      "authorRoles": { "equalContribution": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] },
+      "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "venueShort": "IEEE TPAMI",
+      "year": 2025,
+      "badge": "IEEE TPAMI",
+      "image": "images/my_papers/HyperSIGMA.png",
+      "doi": "https://ieeexplore.ieee.org/abstract/document/10949864",
+      "note": "ESI Hot Paper (Top 0.1%) | ESI Highly Cited Paper (Top 1%)",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
+        { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
+        { "name": "Code", "url": "https://github.com/WHU-Sigma/HyperSIGMA" }
+      ],
+      "referenceKey": "wang2025hypersigma"
+    },
+    {
+      "id": "xu2025mambamoe",
+      "title": "MambaMoE: Mixture-of-Spectral-Spatial-Experts State Space Model for Hyperspectral Image Classification",
+      "venue": "Information Fusion",
+      "venueShort": "Information Fusion",
+      "year": 2025,
+      "badge": "Information Fusion",
+      "image": "images/my_papers/MambaMoE.png",
+      "doi": "https://arxiv.org/abs/2504.20509",
+      "note": "Hyperspectral Image Classification | Mixture of Experts",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
+        { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
+      ],
+      "referenceKey": "xu2025mambamoe"
+    },
+    {
+      "id": "xu2025dsformer",
+      "title": "Dual Selective Fusion Transformer Network for Hyperspectral Image Classification",
+      "venue": "Neural Networks",
+      "venueShort": "Neural Networks",
+      "year": 2025,
+      "badge": "Neural Networks",
+      "image": "images/my_papers/DSFormer.png",
+      "doi": "https://www.sciencedirect.com/science/article/pii/S089360802500190X",
+      "note": "ESI Highly Cited Paper (Top 1%) | Hyperspectral Image Classification",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
+        { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
+      ],
+      "referenceKey": "xu2025dsformer"
+    },
+    {
+      "id": "xu2024s3anet",
+      "title": "S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification",
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "venueShort": "IEEE TGRS",
+      "year": 2024,
+      "badge": "IEEE TGRS",
+      "image": "images/my_papers/S3ANet.png",
+      "doi": "https://ieeexplore.ieee.org/document/10478963",
+      "note": "Adversarial Defense | Hyperspectral Image Classification",
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/10478963" },
+        { "name": "Code", "url": "https://github.com/YichuXu/S3ANet" }
+      ],
+      "referenceKey": "xu2024s3anet"
+    },
+    {
+      "id": "xu2022overview",
+      "title": "Hyperspectral Anomaly Detection Based on Machine Learning: An Overview",
+      "venue": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "venueShort": "IEEE JSTARS",
+      "year": 2022,
+      "badge": "IEEE JSTARS",
+      "image": "images/my_papers/HAD_Overview.png",
+      "doi": "https://ieeexplore.ieee.org/document/9760098",
+      "note": "ESI Highly Cited Paper (Top 1%) | Hyperspectral Anomaly Detection",
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
+      ],
+      "referenceKey": "xu2022overview"
+    },
+    {
+      "id": "xu2020lowrank",
+      "title": "A Low-Rank and Sparse Matrix Decomposition-Based Dictionary Reconstruction and Anomaly Extraction Framework for Hyperspectral Anomaly Detection",
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "venueShort": "IEEE GRSL",
+      "year": 2020,
+      "badge": "IEEE GRSL",
+      "image": "images/my_papers/GRSL.png",
+      "doi": "https://ieeexplore.ieee.org/document/8869927",
+      "note": "Hyperspectral Anomaly Detection",
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927" }
+      ],
+      "referenceKey": "xu2020lowrank"
+    }
+  ],
+  "conference": [
+    {
+      "id": "han2025hsanet",
+      "title": "HSANet: A Hybrid Self-Cross Attention Network for Remote Sensing Change Detection",
+      "authorRoles": { "corresponding": [5] },
+      "venue": "IEEE International Geoscience and Remote Sensing Symposium",
+      "venueShort": "IEEE IGARSS",
+      "year": 2025,
+      "badge": "IEEE IGARSS",
+      "image": "images/my_papers/HSANet.png",
+      "doi": "https://arxiv.org/abs/2504.15170",
+      "note": "Remote Sensing Change Detection",
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/abs/2504.15170" },
+        { "name": "Code", "url": "https://github.com/ChengxiHAN/HSANet" }
+      ],
+      "referenceKey": "han2025hsanet"
+    }
+  ],
+  "preprint": [],
+  "patent": []
+}

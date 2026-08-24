@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2026.08",
+    "emoji": "📄",
+    "content": "A co-authored paper was accepted by **IEEE TGRS**.",
+    "content_zh": "一篇合作论文被 **IEEE TGRS** 录用。"
+  },
+  {
+    "date": "2026.07",
+    "emoji": "📄",
+    "content": "A corresponding-author paper was accepted by **IEEE TGRS**.",
+    "content_zh": "一篇通讯作者论文被 **IEEE TGRS** 录用。"
+  },
+  {
+    "date": "2026.05",
+    "emoji": "🔥",
+    "content": "[**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) was selected as an **ESI Hot Paper (Top 0.1%)**.",
+    "content_zh": "[**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) 入选 **ESI 热点论文（Top 0.1%）**。"
+  },
+  {
+    "date": "2025.11",
+    "emoji": "🏆",
+    "content": "HyperSIGMA was awarded the **First Prize of the 2025 China Remote Sensing Outstanding Achievements (Theory Category)**.",
+    "content_zh": "HyperSIGMA 高光谱遥感影像智能理解基础模型入选 **2025 年中国遥感优秀成果一等奖（理论类）**。"
+  },
+  {
+    "date": "2025.11",
+    "emoji": "🔥",
+    "content": "[**DSFormer**](https://www.sciencedirect.com/science/article/pii/S089360802500190X) and [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) were selected as **ESI Highly Cited Papers (Top 1%)**.",
+    "content_zh": "[**DSFormer**](https://www.sciencedirect.com/science/article/pii/S089360802500190X) 和 [**HyperSIGMA**](https://ieeexplore.ieee.org/abstract/document/10949864) 入选 **ESI 高被引论文（Top 1%）**。"
+  },
+  {
+    "date": "2025.10",
+    "emoji": "📄",
+    "content": "Our **PHDMamba** was accepted by **IEEE GRSL**.",
+    "content_zh": "我们的 **PHDMamba** 被 **IEEE GRSL** 录用。"
+  },
+  {
+    "date": "2025.10",
+    "emoji": "📄",
+    "content": "Our [**MambaMoE**](https://arxiv.org/abs/2504.20509) was accepted by **Information Fusion**.",
+    "content_zh": "我们的 [**MambaMoE**](https://arxiv.org/abs/2504.20509) 被 **Information Fusion** 录用。"
+  },
+  {
+    "date": "2025.06",
+    "emoji": "🥉",
+    "content": "Won the bronze award (3/121) in the AIRS-2025 Mars Mineral Hyperspectral Classification Challenge [[link]](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ).",
+    "content_zh": "获得 AIRS-2025 开发大赛‘星际矿脉’火星矿物高光谱分类挑战赛铜奖（3/121）[[链接]](https://mp.weixin.qq.com/s/ekA6Y32adnIeEeylF-3KcQ)。"
+  },
+  {
+    "date": "2025.06",
+    "emoji": "🏆",
+    "content": "HyperSIGMA won the VALSE 2025 Popular Poster Award (2/398) [[link]](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ).",
+    "content_zh": "HyperSIGMA 获 VALSE 2025 人气海报奖（2/398）[[链接]](https://mp.weixin.qq.com/s/jYDntHR05zu0YG9lMonYlQ)。"
+  },
+  {
+    "date": "2025.04",
+    "emoji": "🚀",
+    "content": "HyperSIGMA, the first billion-parameter foundation model for hyperspectral intelligent understanding, was featured by the [NSFC](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm), [LIESMARS at WHU](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg), and [Remote Sensing and Deep Learning](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw).",
+    "content_zh": "HyperSIGMA 首个十亿级高光谱智能理解基础模型获[基金委网站](https://www.nsfc.gov.cn/publish/portal0/tab448/info94856.htm)、[武大测国重](https://mp.weixin.qq.com/s/dsUYTbZKfYBGmC4mju0zPg)与[遥感与深度学习](https://mp.weixin.qq.com/s/7CBtVbv2PULV2Vl_mjK3Hw)报道。"
+  },
+  {
+    "date": "2025.03",
+    "emoji": "📄",
+    "content": "A co-authored paper was accepted by **IEEE IGARSS**.",
+    "content_zh": "一篇合作论文被 **IEEE IGARSS** 录用。"
+  },
+  {
+    "date": "2025.03",
+    "emoji": "📄",
+    "content": "A co-first-author paper was accepted by **IEEE TPAMI**.",
+    "content_zh": "一篇共同一作论文被 **IEEE TPAMI** 录用。"
+  },
+  {
+    "date": "2025.02",
+    "emoji": "📄",
+    "content": "A paper was accepted by **Neural Networks**.",
+    "content_zh": "一篇论文被 **Neural Networks** 录用。"
+  },
+  {
+    "date": "2025.01",
+    "emoji": "🔥",
+    "content": "[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) was selected as an **ESI Highly Cited Paper (Top 1%)**.",
+    "content_zh": "[**Hyperspectral Anomaly Detection Based on Machine Learning: An Overview**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098) 入选 **ESI 高被引论文（Top 1%）**。"
+  },
+  {
+    "date": "2024.03",
+    "emoji": "📄",
+    "content": "A paper was accepted by **IEEE TGRS**.",
+    "content_zh": "一篇论文被 **IEEE TGRS** 录用。"
+  }
+]
