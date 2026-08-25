@@ -65,6 +65,8 @@ redirect_from:
 - [Meiqi Hu (胡美琪)](https://meiqihu.github.io/), [Yao Jin (金垚)](https://scholar.google.com/citations?hl=en&user=PBqyF80AAAAJ), [Yuchun Miao (苗雨春)](https://scholar.google.com/citations?hl=en&user=-ec3mwUAAAAJ), [Jiaqi Yang (杨佳琪)](https://jqyang22.github.io/)
 - [Xiaolei Qin (秦晓蕾)](https://scholar.google.com/citations?user=gFKE4TMAAAAJ&hl=en), [Jiaqi Ma (马嘉祺)](https://leonmakise.github.io/), [Lingyu Sun (孙凌瑜)](https://github.com/KiwiLYu), [Chenxing Li (李辰星)](https://ieeexplore.ieee.org/author/37089818143)
 - [Chuan Fu (付川)](https://www.researchgate.net/profile/Fu-Chuan), [Hongruixuan Chen (陈洪瑞轩)](https://chrx97.com/)
+- [Xu Zhang (张旭)](https://scholar.google.com/citations?user=xDDy-DwAAAAJ&hl=en), [Wenkai Li (李文凯)](https://scholar.google.com/citations?hl=en&user=u6bzmBIAAAAJ)
+
 
 # <span class="lang-en">📋 Academic Service</span><span class="lang-zh">📋 学术服务</span>
 {: #services}

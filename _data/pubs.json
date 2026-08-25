@@ -64,6 +64,24 @@
       "referenceKey": "xu2025dsformer"
     },
     {
+      "id": "jin2026hgcnet",
+      "title": "HGCNet: Hierarchical Global-Local Collaborative Network for Hyperspectral Image Classification",
+      "authorRoles": { "corresponding": [7] },
+      "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+      "venueShort": "IEEE TGRS",
+      "year": 2026,
+      "badge": "IEEE TGRS",
+      "image": "images/my_papers/HGCNet.png",
+      "doi": "https://doi.org/10.1109/TGRS.2026.3717086",
+      "note": "Hyperspectral Image Classification",
+      "scholarId": "CxKy4lEAAAAJ:1taIhTC69MYC",
+      "citationCount": 0,
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11625837/" }
+      ],
+      "referenceKey": "jin2026hgcnet"
+    },
+    {
       "id": "xu2024s3anet",
       "title": "S3ANet: Spatial–Spectral Self-Attention Learning Network for Defending Against Adversarial Attacks in Hyperspectral Image Classification",
       "venue": "IEEE Transactions on Geoscience and Remote Sensing",
@@ -100,6 +118,25 @@
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
       ],
       "referenceKey": "xu2022overview"
+    },
+    {
+      "id": "xu2025phdmamba",
+      "title": "PHDMamba: Progressive Hybrid Mamba for Hyperspectral Image Classification",
+      "authorRoles": { "corresponding": [7] },
+      "venue": "IEEE Geoscience and Remote Sensing Letters",
+      "venueShort": "IEEE GRSL",
+      "year": 2025,
+      "badge": "IEEE GRSL",
+      "image": "images/my_papers/PHDMamba.png",
+      "doi": "https://ieeexplore.ieee.org/document/11222630/",
+      "note": "Hyperspectral Image Classification",
+      "scholarId": "CxKy4lEAAAAJ:LPtt_HFRSbwC",
+      "citationCount": 8,
+      "links": [
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11222630/" },
+        { "name": "Code", "url": "https://github.com/YichuXu/PHDMamba" }
+      ],
+      "referenceKey": "xu2025phdmamba"
     },
     {
       "id": "xu2020lowrank",
@@ -140,6 +177,25 @@
       "referenceKey": "han2025hsanet"
     }
   ],
-  "preprint": [],
+  "preprint": [
+    {
+      "id": "zhang2026proteus",
+      "title": "Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control",
+      "venue": "arXiv",
+      "venueShort": "arXiv",
+      "year": 2026,
+      "badge": "arXiv",
+      "image": "images/my_papers/PROTEUS.png",
+      "doi": "https://arxiv.org/abs/2608.08661",
+      "note": "Underwater Image Restoration",
+      "scholarId": "CxKy4lEAAAAJ:jU7OWUQzBzMC",
+      "citationCount": 0,
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2608.08661" },
+        { "name": "arXiv", "url": "https://arxiv.org/abs/2608.08661" }
+      ],
+      "referenceKey": "zhang2026proteus"
+    }
+  ],
   "patent": []
 }

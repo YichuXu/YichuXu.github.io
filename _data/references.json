@@ -60,6 +60,24 @@
     "URL": "https://www.sciencedirect.com/science/article/pii/S089360802500190X",
     "issued": { "date-parts": [[2025]] }
   },
+  "jin2026hgcnet": {
+    "id": "jin2026hgcnet",
+    "type": "article-journal",
+    "title": "HGCNet: Hierarchical Global-Local Collaborative Network for Hyperspectral Image Classification",
+    "author": [
+      { "family": "Jin", "given": "Changjiang" },
+      { "family": "Shao", "given": "Xiaopeng" },
+      { "family": "Ma", "given": "Haobing" },
+      { "family": "Feng", "given": "Qian" },
+      { "family": "Cao", "given": "Weinan" },
+      { "family": "Han", "given": "Chengxi" },
+      { "family": "Xu", "given": "Yichu" }
+    ],
+    "container-title": "IEEE Transactions on Geoscience and Remote Sensing",
+    "DOI": "10.1109/TGRS.2026.3717086",
+    "URL": "https://ieeexplore.ieee.org/document/11625837/",
+    "issued": { "date-parts": [[2026]] }
+  },
   "xu2024s3anet": {
     "id": "xu2024s3anet",
     "type": "article-journal",
@@ -89,6 +107,24 @@
     "URL": "https://ieeexplore.ieee.org/document/9760098",
     "issued": { "date-parts": [[2022]] }
   },
+  "xu2025phdmamba": {
+    "id": "xu2025phdmamba",
+    "type": "article-journal",
+    "title": "PHDMamba: Progressive Hybrid Mamba for Hyperspectral Image Classification",
+    "author": [
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Han", "given": "Chengxi" },
+      { "family": "Chen", "given": "Shi" },
+      { "family": "Jin", "given": "Yao" },
+      { "family": "Miao", "given": "Yuchun" },
+      { "family": "Guo", "given": "Haonan" },
+      { "family": "Wang", "given": "Di" }
+    ],
+    "container-title": "IEEE Geoscience and Remote Sensing Letters",
+    "DOI": "10.1109/LGRS.2025.3626712",
+    "URL": "https://ieeexplore.ieee.org/document/11222630/",
+    "issued": { "date-parts": [[2025]] }
+  },
   "xu2020lowrank": {
     "id": "xu2020lowrank",
     "type": "article-journal",
@@ -117,5 +153,23 @@
     "container-title": "IEEE International Geoscience and Remote Sensing Symposium",
     "URL": "https://arxiv.org/abs/2504.15170",
     "issued": { "date-parts": [[2025]] }
+  },
+  "zhang2026proteus": {
+    "id": "zhang2026proteus",
+    "type": "article-journal",
+    "title": "Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control",
+    "author": [
+      { "family": "Zhang", "given": "Xu" },
+      { "family": "Cao", "given": "Xuhui" },
+      { "family": "Yuan", "given": "Kangzhe" },
+      { "family": "Chang", "given": "Laibin" },
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Chen", "given": "Shi" },
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Chen", "given": "Yong" }
+    ],
+    "container-title": "arXiv",
+    "URL": "https://arxiv.org/abs/2608.08661",
+    "issued": { "date-parts": [[2026]] }
   }
 }
