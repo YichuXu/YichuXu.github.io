@@ -171,5 +171,22 @@
     "container-title": "arXiv",
     "URL": "https://arxiv.org/abs/2608.08661",
     "issued": { "date-parts": [[2026]] }
+  },
+  "zhang2026unipcb": {
+    "id": "zhang2026unipcb",
+    "type": "article-journal",
+    "title": "UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection",
+    "author": [
+      { "family": "Zhang", "given": "Huan" },
+      { "family": "Tan", "given": "Lianghong" },
+      { "family": "Xu", "given": "Yichu" },
+      { "family": "Cao", "given": "Jiangzhong" },
+      { "family": "Wu", "given": "Huanqi" },
+      { "family": "Zhu", "given": "Linwei" },
+      { "family": "Zhang", "given": "Xu" }
+    ],
+    "container-title": "arXiv",
+    "URL": "https://arxiv.org/abs/2605.04635",
+    "issued": { "date-parts": [[2026]] }
   }
 }

@@ -118,5 +118,17 @@
       "apa": "Zhang, X., Cao, X., Yuan, K., Chang, L., Xu, Y., Chen, S., Zhang, H., & Chen, Y. (2026). Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control. arXiv. https://arxiv.org/abs/2608.08661",
       "gb-t-7714": "[1] ZHANG X, CAO X, YUAN K, et al. Degradation-Guided Underwater Image Restoration with Task-Oriented Latent Control[J/OL]. arXiv, 2026. https://arxiv.org/abs/2608.08661."
     }
+  },
+  "zhang2026unipcb": {
+    "key": "zhang2026unipcb",
+    "title": "UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection",
+    "formats": {
+      "bibtex": "@article{zhang2026unipcb,\n\tauthor = {Zhang, Huan and Tan, Lianghong and Xu, Yichu and Cao, Jiangzhong and Wu, Huanqi and Zhu, Linwei and Zhang, Xu},\n\tjournal = {arXiv},\n\tyear = {2026},\n\ttitle = {{UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection}},\n\turl = {https://arxiv.org/abs/2605.04635},\n\thowpublished = {https://arxiv.org/abs/2605.04635},\n}",
+      "ris": "TY  - JOUR\nAU  - Zhang, Huan\nAU  - Tan, Lianghong\nAU  - Xu, Yichu\nAU  - Cao, Jiangzhong\nAU  - Wu, Huanqi\nAU  - Zhu, Linwei\nAU  - Zhang, Xu\nDA  - 2026///\nPY  - 2026\nID  - zhang2026unipcb\nT2  - arXiv\nTI  - UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspe\nction\nUR  - https://arxiv.org/abs/2605.04635\nER  -",
+      "csl-json": "{\n  \"id\": \"zhang2026unipcb\",\n  \"type\": \"article-journal\",\n  \"title\": \"UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection\",\n  \"author\": [\n    {\n      \"family\": \"Zhang\",\n      \"given\": \"Huan\"\n    },\n    {\n      \"family\": \"Tan\",\n      \"given\": \"Lianghong\"\n    },\n    {\n      \"family\": \"Xu\",\n      \"given\": \"Yichu\"\n    },\n    {\n      \"family\": \"Cao\",\n      \"given\": \"Jiangzhong\"\n    },\n    {\n      \"family\": \"Wu\",\n      \"given\": \"Huanqi\"\n    },\n    {\n      \"family\": \"Zhu\",\n      \"given\": \"Linwei\"\n    },\n    {\n      \"family\": \"Zhang\",\n      \"given\": \"Xu\"\n    }\n  ],\n  \"container-title\": \"arXiv\",\n  \"URL\": \"https://arxiv.org/abs/2605.04635\",\n  \"issued\": {\n    \"date-parts\": [\n      [\n        2026\n      ]\n    ]\n  }\n}",
+      "ieee": "[1] H. Zhang et al., “UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection,” arXiv, 2026, [Online]. Available: https://arxiv.org/abs/2605.04635",
+      "apa": "Zhang, H., Tan, L., Xu, Y., Cao, J., Wu, H., Zhu, L., & Zhang, X. (2026). UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection. arXiv. https://arxiv.org/abs/2605.04635",
+      "gb-t-7714": "[1] ZHANG H, TAN L, XU Y, et al. UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection[J/OL]. arXiv, 2026. https://arxiv.org/abs/2605.04635."
+    }
   }
 }

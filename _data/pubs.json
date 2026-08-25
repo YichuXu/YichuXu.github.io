@@ -77,7 +77,8 @@
       "scholarId": "CxKy4lEAAAAJ:1taIhTC69MYC",
       "citationCount": 0,
       "links": [
-        { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11625837/" }
+        { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11625837/" },
+        { "name": "Code", "url": "https://github.com/YichuXu/HGCNet" }
       ],
       "referenceKey": "jin2026hgcnet"
     },
@@ -195,6 +196,24 @@
         { "name": "arXiv", "url": "https://arxiv.org/abs/2608.08661" }
       ],
       "referenceKey": "zhang2026proteus"
+    },
+    {
+      "id": "zhang2026unipcb",
+      "title": "UniPCB: A Generation-Assisted Detection Framework for PCB Defect Inspection",
+      "venue": "arXiv",
+      "venueShort": "arXiv",
+      "year": 2026,
+      "badge": "arXiv",
+      "image": "images/my_papers/UniPCB.png",
+      "doi": "https://arxiv.org/abs/2605.04635",
+      "note": "PCB Defect Inspection",
+      "scholarId": "CxKy4lEAAAAJ:3htObqc8RwsC",
+      "citationCount": 0,
+      "links": [
+        { "name": "PDF", "url": "https://arxiv.org/pdf/2605.04635" },
+        { "name": "arXiv", "url": "https://arxiv.org/abs/2605.04635" }
+      ],
+      "referenceKey": "zhang2026unipcb"
     }
   ],
   "patent": []
