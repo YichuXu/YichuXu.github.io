@@ -32,7 +32,10 @@
     <div class="pub-venue"><em>{{ pub.venue }}</em>, {{ pub.year }}</div>
     <div class="pub-footer">
       <div class="pub-details">
-        {% if include.show_venue_info %}{% assign venue_info = site.data.venues[pub.venueShort] %}{% if venue_info %}{{ venue_info.rank }}, IF={{ venue_info.IF }}{% if pub.note %} &#124; {% endif %}{% endif %}{% endif %}{{ pub.note | replace: "|", "&#124;" }}{% if pub.scholarId %} <span class="show_paper_citations" data-paper-id="{{ pub.scholarId }}"></span>{% endif %}
+        {% if include.show_venue_info %}{% assign venue_info = site.data.venues[pub.venueShort] %}{% if venue_info %}<span class="pub-detail-item pub-metric" title="{{ venue_info.year }} Journal Impact Factor">{{ venue_info.rank }}, IF={{ venue_info.IF }}</span>{% endif %}{% endif %}
+        {% if pub.note %}<span class="pub-detail-item">{{ pub.note | replace: "|", "&#124;" }}</span>{% endif %}
+        {% for highlight in pub.highlights %}<span class="pub-detail-item"><span class="pub-highlight pub-highlight--{{ highlight.type }}">{{ highlight.label }}</span></span>{% endfor %}
+        {% if pub.scholarId %}<span class="pub-detail-item show_paper_citations" data-paper-id="{{ pub.scholarId }}">Citations: {{ pub.citationCount | default: 0 }}</span>{% endif %}
       </div>
       <div class="pub-links">
         {% for link in pub.links %}<a class="pub-btn" href="{{ link.url }}">{% if link.url contains 'github.com' %}<i class="fab fa-github"></i>{% elsif link.name == 'PDF' %}<i class="fas fa-file-pdf"></i>{% elsif link.name == 'arXiv' %}<i class="ai ai-arxiv"></i>{% else %}<i class="fas fa-link"></i>{% endif %} {{ link.name }}</a>{% endfor %}{% if pub.referenceKey %}<a class="pub-btn" href="#citation-{{ pub.referenceKey }}"><i class="fas fa-quote-right"></i> Cite</a>{% endif %}

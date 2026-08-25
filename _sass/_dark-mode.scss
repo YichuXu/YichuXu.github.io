@@ -90,6 +90,22 @@ html[data-theme="dark"] {
     }
   }
 
+  .pub-detail-item + .pub-detail-item::before {
+    color: #666;
+  }
+
+  .pub-highlight--hot {
+    color: #ffaaa3;
+    background: rgba(196, 52, 43, 0.2);
+    border-color: rgba(255, 130, 120, 0.48);
+  }
+
+  .pub-highlight--highly-cited {
+    color: #ffd273;
+    background: rgba(183, 121, 0, 0.2);
+    border-color: rgba(242, 190, 77, 0.5);
+  }
+
   .google-scholar-badge {
     color: #9cc8ff !important;
     background: rgba(122, 176, 230, 0.12);

@@ -10,7 +10,13 @@
       "badge": "IEEE TPAMI",
       "image": "images/my_papers/HyperSIGMA.png",
       "doi": "https://ieeexplore.ieee.org/abstract/document/10949864",
-      "note": "ESI Hot Paper (Top 0.1%) | ESI Highly Cited Paper (Top 1%)",
+      "note": "Hyperspectral Foundation Model",
+      "highlights": [
+        { "type": "hot", "label": "ESI Hot Paper (Top 0.1%)" },
+        { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
+      ],
+      "scholarId": "CxKy4lEAAAAJ:6bLC7aUMtPcC",
+      "citationCount": 294,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -28,6 +34,8 @@
       "image": "images/my_papers/MambaMoE.png",
       "doi": "https://arxiv.org/abs/2504.20509",
       "note": "Hyperspectral Image Classification | Mixture of Experts",
+      "scholarId": "CxKy4lEAAAAJ:CdxZDUztZiMC",
+      "citationCount": 29,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
         { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
@@ -43,7 +51,12 @@
       "badge": "Neural Networks",
       "image": "images/my_papers/DSFormer.png",
       "doi": "https://www.sciencedirect.com/science/article/pii/S089360802500190X",
-      "note": "ESI Highly Cited Paper (Top 1%) | Hyperspectral Image Classification",
+      "note": "Hyperspectral Image Classification",
+      "highlights": [
+        { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
+      ],
+      "scholarId": "CxKy4lEAAAAJ:-mN3Mh-tlDkC",
+      "citationCount": 148,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
         { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
@@ -60,6 +73,8 @@
       "image": "images/my_papers/S3ANet.png",
       "doi": "https://ieeexplore.ieee.org/document/10478963",
       "note": "Adversarial Defense | Hyperspectral Image Classification",
+      "scholarId": "CxKy4lEAAAAJ:7BrZ7Jt4UNcC",
+      "citationCount": 41,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/10478963" },
         { "name": "Code", "url": "https://github.com/YichuXu/S3ANet" }
@@ -75,7 +90,12 @@
       "badge": "IEEE JSTARS",
       "image": "images/my_papers/HAD_Overview.png",
       "doi": "https://ieeexplore.ieee.org/document/9760098",
-      "note": "ESI Highly Cited Paper (Top 1%) | Hyperspectral Anomaly Detection",
+      "note": "Hyperspectral Anomaly Detection",
+      "highlights": [
+        { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
+      ],
+      "scholarId": "CxKy4lEAAAAJ:owLR8QvbtFgC",
+      "citationCount": 174,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
       ],
@@ -91,6 +111,8 @@
       "image": "images/my_papers/GRSL.png",
       "doi": "https://ieeexplore.ieee.org/document/8869927",
       "note": "Hyperspectral Anomaly Detection",
+      "scholarId": "CxKy4lEAAAAJ:WJVC3Jt7v1AC",
+      "citationCount": 45,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927" }
       ],
@@ -109,6 +131,8 @@
       "image": "images/my_papers/HSANet.png",
       "doi": "https://arxiv.org/abs/2504.15170",
       "note": "Remote Sensing Change Detection",
+      "scholarId": "CxKy4lEAAAAJ:zCSUwVk65WsC",
+      "citationCount": 10,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.15170" },
         { "name": "Code", "url": "https://github.com/ChengxiHAN/HSANet" }

@@ -252,6 +252,53 @@ $compact-card-padding-block: 0.9em;
   margin-top: 0.35em;
 }
 
+.pub-details {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  row-gap: 0.35em;
+}
+
+.pub-detail-item {
+  display: inline-flex;
+  align-items: center;
+}
+
+.pub-detail-item + .pub-detail-item::before {
+  content: "|";
+  margin: 0 0.45em;
+  color: $light-gray;
+  font-weight: 400;
+}
+
+.pub-metric {
+  font-weight: 600;
+}
+
+.pub-highlight {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12em 0.5em;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  font-size: 0.92em;
+  font-weight: 700;
+  line-height: 1.35;
+  white-space: nowrap;
+}
+
+.pub-highlight--hot {
+  color: #b42318;
+  background: #fff0ee;
+  border-color: #f5b7b1;
+}
+
+.pub-highlight--highly-cited {
+  color: #875700;
+  background: #fff7df;
+  border-color: #f2cf78;
+}
+
 .pub-author--self {
   font-weight: 700;
   text-decoration: underline;

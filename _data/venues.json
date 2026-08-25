@@ -1,1 +1,32 @@
-{}
+{
+  "IEEE TPAMI": {
+    "rank": "中科院一区 Top",
+    "IF": 20.4,
+    "year": 2026
+  },
+  "Information Fusion": {
+    "rank": "中科院一区 Top",
+    "IF": 17.4,
+    "year": 2026
+  },
+  "Neural Networks": {
+    "rank": "中科院二区 Top",
+    "IF": 7.2,
+    "year": 2026
+  },
+  "IEEE TGRS": {
+    "rank": "中科院一区 Top",
+    "IF": 9.4,
+    "year": 2026
+  },
+  "IEEE JSTARS": {
+    "rank": "中科院二区 Top",
+    "IF": 6.3,
+    "year": 2026
+  },
+  "IEEE GRSL": {
+    "rank": "中科院三区",
+    "IF": 4.8,
+    "year": 2026
+  }
+}
