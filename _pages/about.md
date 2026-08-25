@@ -12,12 +12,14 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-👋 Welcome to my academic homepage. I am **Yichu Xu (徐一楚)**, a Ph.D. candidate at [Wuhan University (WHU)](https://www.whu.edu.cn/) in the [Sigma Group](https://sigma.whu.edu.cn/), advised by Prof. [Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN), and Prof. [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html). {% include google-scholar-badge.html inline=true %}
+👋 Welcome to my academic homepage. I am **Yichu Xu (徐一楚)**, received my Ph.D. degree at [Wuhan University (WHU)](https://www.whu.edu.cn/) in the [Sigma Group](https://sigma.whu.edu.cn/), advised by Prof. [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html), Prof. [Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), and Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). {% include google-scholar-badge.html inline=true %}
+
 
 🔍 My research interests include:
 
-- **<span style="color: #2b7a9b;">Remote Sensing Image Interpretation</span>**: Hyperspectral Image Classification, Hyperspectral Target/Anomaly Detection, and Change Detection.
-- **<span style="color: #8a5bb7;">Remote Sensing Foundation Models</span>**.
+- **<span style="color: #2b7a9b;">Remote Sensing Image Intelligent Interpretation</span>**: Hyperspectral/Optical/Multimodal Image Interpretation.
+- **<span style="color: #8a5bb7;">Remote Sensing Foundation Models</span>**: Hyperspectral/Optical/Multimodal Foundation Model, Parameter-Efficient Fine-Tuning.
+- **<span style="color: #b7885bff;">Image Restoration </span>**: Remote Sensing/Hyperspectral/Undetwater All-in-One Image Restoration.
 
 🤝 I am open to collaboration and welcome inquiries from anyone interested in my research. Please feel free to contact me at [xuyichu@whu.edu.cn](mailto:xuyichu@whu.edu.cn) or via WeChat (`Yichu_Xu`).
 
@@ -25,12 +27,13 @@ redirect_from:
 
 <div class="lang-zh" markdown="1">
 
-👋 欢迎来到我的学术主页！我是**徐一楚（Yichu Xu）**，现为[武汉大学](https://www.whu.edu.cn/) [Sigma 团队](https://sigma.whu.edu.cn/)博士研究生，导师为[张乐飞](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN)教授、[杜博](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN)教授和[张良培](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)教授。{% include google-scholar-badge.html inline=true %}
+👋 欢迎来到我的学术主页！我是**徐一楚（Yichu Xu）**，博士毕业于[武汉大学](https://www.whu.edu.cn/) [Sigma 团队](https://sigma.whu.edu.cn/)，师从[张良培](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)教授、[张乐飞](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN)教授和[杜博](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN)教授。{% include google-scholar-badge.html inline=true %}
 
 🔍 我的研究方向包括：
 
-- **<span style="color: #2b7a9b;">遥感影像智能解译</span>**：高光谱影像分类、高光谱目标/异常检测与变化检测。
-- **<span style="color: #8a5bb7;">遥感基础模型</span>**。
+- **<span style="color: #2b7a9b;">遥感影像智能解译</span>**：高光谱、光学与多模态影像解译。
+- **<span style="color: #8a5bb7;">遥感基础模型</span>**：高光谱、光学与多模态基础模型，参数高效微调。
+- **<span style="color: #b7885bff;">图像复原</span>**：遥感、高光谱与水下图像一体化复原。
 
 🤝 欢迎科研合作与交流，可通过邮箱 [xuyichu@whu.edu.cn](mailto:xuyichu@whu.edu.cn) 或微信（`Yichu_Xu`）联系我。
 
