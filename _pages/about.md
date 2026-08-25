@@ -12,7 +12,7 @@ redirect_from:
 
 <div class="lang-en" markdown="1">
 
-👋 Welcome to my academic homepage. I am **Yichu Xu (徐一楚)**, received my Ph.D. degree at [Wuhan University (WHU)](https://www.whu.edu.cn/) in the [Sigma Group](https://sigma.whu.edu.cn/), advised by Prof. [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html), Prof. [Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ&hl=zh-CN), and Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ&hl=zh-CN). {% include google-scholar-badge.html inline=true %}
+👋 Welcome to my academic homepage. I am **Yichu Xu (徐一楚)**. I received my Ph.D. degree from [Wuhan University (WHU)](https://www.whu.edu.cn/) as a member of the [Sigma Group](https://sigma.whu.edu.cn/), advised by Prof. [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html), Prof. [Lefei Zhang](https://scholar.google.com.hk/citations?user=BLKHwNwAAAAJ\&hl=zh-CN), and Prof. [Bo Du](https://scholar.google.com.hk/citations?user=Shy1gnMAAAAJ\&hl=zh-CN). {% include google-scholar-badge.html inline=true %}
 
 
 🔍 My research interests include:
