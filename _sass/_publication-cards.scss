@@ -264,8 +264,7 @@ $compact-card-padding-block: 0.9em;
   align-items: center;
 }
 
-.pub-detail-item + .pub-detail-item::before {
-  content: "|";
+.pub-detail-separator {
   margin: 0 0.45em;
   color: $light-gray;
   font-weight: 400;
