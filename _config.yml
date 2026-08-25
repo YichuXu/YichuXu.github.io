@@ -11,12 +11,13 @@ url                      : "https://yichuxu.github.io"
 baseurl                  : ""
 description              : "Remote sensing image interpretation and foundation models."
 description_zh           : "遥感影像智能解译与遥感基础模型。"
-seo_title                : "Yichu Xu (徐一楚) | Remote Sensing and AI"
+seo_title                : "Yichu Xu (徐一楚) | Academic Homepage"
 seo_description          : "Academic homepage of Yichu Xu (徐一楚), a Ph.D. candidate at Wuhan University, focusing on hyperspectral image interpretation and remote sensing foundation models."
 repository               : "YichuXu/YichuXu.github.io"
 google_scholar_stats_use_cdn : true
 google_scholar:
   id: "CxKy4lEAAAAJ"
+  fallback_citation_count: 749
   stats_branch: "google-scholar-stats"
   stats_file: "gs_data.json"
   stats_cdn_base_urls:

@@ -15,9 +15,10 @@
       '{{ raw_base_url }}/{{ site.repository }}/{{ stats_branch }}/{{ stats_file }}'
     ];
 
-    function setBadgesState(state) {
+    function setBadgesState(state, title) {
       document.querySelectorAll('.google-scholar-badge').forEach(function (badge) {
         badge.dataset.state = state;
+        if (title) badge.title = title;
       });
     }
 
@@ -72,7 +73,7 @@
         }
       }
 
-      setBadgesState('unavailable');
+      setBadgesState('unavailable', 'Showing the last verified citation count');
     }
 
     function initScholarStats() {

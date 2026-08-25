@@ -4,9 +4,9 @@ import json
 from datetime import datetime
 import os
 
-# Set Google Scholar ID directly
-os.environ['GOOGLE_SCHOLAR_ID'] = "5F3tICwAAAAJ"
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+# Use the workflow value when provided and fall back to the public profile ID.
+scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID') or "CxKy4lEAAAAJ"
+author: dict = scholarly.search_author_id(scholar_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
 author['updated'] = str(datetime.now())
