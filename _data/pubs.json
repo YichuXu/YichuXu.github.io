@@ -33,7 +33,7 @@
       "badge": "Information Fusion",
       "image": "images/my_papers/MambaMoE.png",
       "doi": "https://arxiv.org/abs/2504.20509",
-      "note": "Hyperspectral Image Classification | Mixture of Experts",
+      "note": "Hyperspectral Image Classification | MoE",
       "scholarId": "CxKy4lEAAAAJ:CdxZDUztZiMC",
       "citationCount": 29,
       "links": [
@@ -72,7 +72,7 @@
       "badge": "IEEE TGRS",
       "image": "images/my_papers/S3ANet.png",
       "doi": "https://ieeexplore.ieee.org/document/10478963",
-      "note": "Adversarial Defense",
+      "note": "Adversarial Defense for HSI",
       "scholarId": "CxKy4lEAAAAJ:7BrZ7Jt4UNcC",
       "citationCount": 41,
       "links": [
@@ -90,7 +90,7 @@
       "badge": "IEEE JSTARS",
       "image": "images/my_papers/HAD_Overview.png",
       "doi": "https://ieeexplore.ieee.org/document/9760098",
-      "note": "Hyperspectral Anomaly Detection",
+      "note": "Hyperspectral Anomaly Detection Overview",
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
