@@ -2,9 +2,16 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  page_build:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/google_scholar_crawler.yaml"
+      - "google_scholar_crawler/**"
   schedule:
-    - cron: "0 8 * * *"
+    # Run every day at 08:17 UTC (16:17 Beijing time). Using a non-zero
+    # minute avoids the busiest period for GitHub's scheduled runners.
+    - cron: "17 8 * * *"
 
 permissions:
   contents: write

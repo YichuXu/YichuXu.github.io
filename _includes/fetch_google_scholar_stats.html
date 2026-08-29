@@ -5,14 +5,14 @@
     {% assign stats_file = scholar_config.stats_file | default: "gs_data.json" %}
     {% assign raw_base_url = scholar_config.raw_base_url | default: "https://raw.githubusercontent.com" %}
 
+    var cacheVersion = Math.floor(Date.now() / 3600000);
     var gsDataUrls = [
-      '{{ "/assets/data/google-scholar.json" | relative_url }}?v={{ site.time | date: "%s" }}',
+      '{{ raw_base_url }}/{{ site.repository }}/{{ stats_branch }}/{{ stats_file }}?v=' + cacheVersion,
     {% if site.google_scholar_stats_use_cdn %}
       {% for cdn_base_url in scholar_config.stats_cdn_base_urls %}
-      '{{ cdn_base_url }}/{{ site.repository }}@{{ stats_branch }}/{{ stats_file }}',
+      '{{ cdn_base_url }}/{{ site.repository }}@{{ stats_branch }}/{{ stats_file }}?v=' + cacheVersion,
       {% endfor %}
     {% endif %}
-      '{{ raw_base_url }}/{{ site.repository }}/{{ stats_branch }}/{{ stats_file }}'
     ];
 
     function setBadgesState(state, title) {
@@ -37,7 +37,7 @@
 
       document.querySelectorAll('.show_paper_citations').forEach(function (element) {
         var paper = data.publications && data.publications[element.dataset.paperId];
-        if (paper && paper.num_citations > 0) {
+        if (paper && typeof paper.num_citations === 'number') {
           var count = element.querySelector('.pub-citation-count');
           if (count) count.textContent = 'Citations: ' + paper.num_citations;
         }
