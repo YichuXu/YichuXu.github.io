@@ -22,6 +22,13 @@
       });
     }
 
+    function normalizePaperTitle(title) {
+      return String(title || '')
+        .normalize('NFKD')
+        .toLowerCase()
+        .replace(/[^a-z0-9]+/g, '');
+    }
+
     function renderScholarStats(data, sourceUrl) {
       var totalCitation = data.citedby;
       var totalCitElement = document.getElementById('total_cit');
@@ -35,8 +42,19 @@
         badge.title = 'Citation data loaded from ' + sourceUrl;
       });
 
+      var publications = data.publications || {};
+      var publicationsByTitle = {};
+      Object.keys(publications).forEach(function (publicationId) {
+        var publication = publications[publicationId];
+        var title = publication && publication.bib && publication.bib.title;
+        if (title) publicationsByTitle[normalizePaperTitle(title)] = publication;
+      });
+
       document.querySelectorAll('.show_paper_citations').forEach(function (element) {
-        var paper = data.publications && data.publications[element.dataset.paperId];
+        var paper = publications[element.dataset.paperId];
+        if (!paper && element.dataset.paperTitle) {
+          paper = publicationsByTitle[normalizePaperTitle(element.dataset.paperTitle)];
+        }
         if (paper && typeof paper.num_citations === 'number') {
           var count = element.querySelector('.pub-citation-count');
           if (count) count.textContent = 'Citations: ' + paper.num_citations;

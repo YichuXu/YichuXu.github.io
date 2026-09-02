@@ -15,8 +15,8 @@
         { "type": "hot", "label": "ESI Hot Paper (Top 0.1%)" },
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:WC9gN4BGCRcC",
-      "citationCount": 298,
+      "scholarId": "CxKy4lEAAAAJ:rHJHxKgnXwkC",
+      "citationCount": 299,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -55,8 +55,8 @@
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:-mN3Mh-tlDkC",
-      "citationCount": 148,
+      "scholarId": "CxKy4lEAAAAJ:SjuI4pbJlxcC",
+      "citationCount": 152,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
         { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
@@ -92,8 +92,8 @@
       "image": "images/my_papers/S3ANet.png",
       "doi": "https://ieeexplore.ieee.org/document/10478963",
       "note": "Adversarial Defense for HSI",
-      "scholarId": "CxKy4lEAAAAJ:7BrZ7Jt4UNcC",
-      "citationCount": 41,
+      "scholarId": "CxKy4lEAAAAJ:Ade32sEp0pkC",
+      "citationCount": 43,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/10478963" },
         { "name": "Code", "url": "https://github.com/YichuXu/S3ANet" }
@@ -132,7 +132,7 @@
       "doi": "https://ieeexplore.ieee.org/document/11222630/",
       "note": "Hyperspectral Image Classification",
       "scholarId": "CxKy4lEAAAAJ:LPtt_HFRSbwC",
-      "citationCount": 8,
+      "citationCount": 9,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11222630/" },
         { "name": "Code", "url": "https://github.com/YichuXu/PHDMamba" }

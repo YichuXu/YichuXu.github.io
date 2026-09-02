@@ -2,16 +2,11 @@ name: Get Citation Data
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - master
-    paths:
-      - ".github/workflows/google_scholar_crawler.yaml"
-      - "google_scholar_crawler/**"
-  schedule:
-    # Run every day at 08:17 UTC (16:17 Beijing time). Using a non-zero
-    # minute avoids the busiest period for GitHub's scheduled runners.
-    - cron: "17 8 * * *"
+
+# Google Scholar frequently blocks shared GitHub-hosted runner IP addresses.
+# Scheduled updates are therefore performed by google_scholar_crawler/git_update.sh
+# (or git_update.bat) on a trusted local machine/server. This workflow remains
+# available as a manual fallback from the Actions page.
 
 permissions:
   contents: write
@@ -19,9 +14,10 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-python@v5
+    - uses: actions/checkout@v6
+    - uses: actions/setup-python@v6
       with:
         python-version: "3.11"
         cache: pip
