@@ -24,6 +24,9 @@ if git -C "${results}" diff --cached --quiet; then
   printf '%s\n' "Google Scholar data is unchanged."
 else
   git -C "${results}" commit -m "Update Google Scholar statistics"
-  git -C "${results}" push "${remote}" HEAD:google-scholar-stats --force
-  printf '%s\n' "Google Scholar data pushed successfully."
 fi
+
+# Always push the current snapshot so a previous authentication or network
+# failure can be retried even when the citation data itself has not changed.
+git -C "${results}" push "${remote}" HEAD:google-scholar-stats --force
+printf '%s\n' "Google Scholar data pushed successfully."

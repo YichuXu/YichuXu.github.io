@@ -15,8 +15,8 @@
         { "type": "hot", "label": "ESI Hot Paper (Top 0.1%)" },
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:rHJHxKgnXwkC",
-      "citationCount": 299,
+      "scholarId": "CxKy4lEAAAAJ:jFemdcug13IC",
+      "citationCount": 304,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -34,8 +34,8 @@
       "image": "images/my_papers/MambaMoE.png",
       "doi": "https://arxiv.org/abs/2504.20509",
       "note": "Hyperspectral Image Classification | MoE",
-      "scholarId": "CxKy4lEAAAAJ:CdxZDUztZiMC",
-      "citationCount": 29,
+      "scholarId": "CxKy4lEAAAAJ:6_hjMsCP8ZoC",
+      "citationCount": 30,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
         { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
@@ -55,8 +55,8 @@
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:SjuI4pbJlxcC",
-      "citationCount": 152,
+      "scholarId": "CxKy4lEAAAAJ:AXkvAH5U_nMC",
+      "citationCount": 153,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
         { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
@@ -113,8 +113,8 @@
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:owLR8QvbtFgC",
-      "citationCount": 174,
+      "scholarId": "CxKy4lEAAAAJ:q-HalDI95KYC",
+      "citationCount": 175,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
       ],
@@ -131,8 +131,8 @@
       "image": "images/my_papers/PHDMamba.png",
       "doi": "https://ieeexplore.ieee.org/document/11222630/",
       "note": "Hyperspectral Image Classification",
-      "scholarId": "CxKy4lEAAAAJ:LPtt_HFRSbwC",
-      "citationCount": 9,
+      "scholarId": "CxKy4lEAAAAJ:DBa1UEJaJKAC",
+      "citationCount": 10,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11222630/" },
         { "name": "Code", "url": "https://github.com/YichuXu/PHDMamba" }

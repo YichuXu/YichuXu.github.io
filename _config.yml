@@ -17,7 +17,7 @@ repository               : "YichuXu/YichuXu.github.io"
 google_scholar_stats_use_cdn : true
 google_scholar:
   id: "CxKy4lEAAAAJ"
-  fallback_citation_count: 762
+  fallback_citation_count: 771
   stats_branch: "google-scholar-stats"
   stats_file: "gs_data.json"
   stats_cdn_base_urls:

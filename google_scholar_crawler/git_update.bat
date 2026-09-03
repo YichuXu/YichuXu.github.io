@@ -22,11 +22,13 @@ if errorlevel 2 exit /b 1
 if errorlevel 1 goto push_stats
 
 echo Google Scholar data is unchanged.
-exit /b 0
+goto publish_stats
 
 :push_stats
 git -C results commit -m "Update Google Scholar statistics"
 if errorlevel 1 exit /b 1
+
+:publish_stats
 git -C results push "%REMOTE%" HEAD:google-scholar-stats --force
 if errorlevel 1 exit /b 1
 echo Google Scholar data pushed successfully.
