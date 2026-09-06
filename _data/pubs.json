@@ -15,8 +15,8 @@
         { "type": "hot", "label": "ESI Hot Paper (Top 0.1%)" },
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:KaMxkj08jr0C",
-      "citationCount": 306,
+      "scholarId": "CxKy4lEAAAAJ:MAUkC_7iAq8C",
+      "citationCount": 309,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -34,8 +34,8 @@
       "image": "images/my_papers/MambaMoE.png",
       "doi": "https://arxiv.org/abs/2504.20509",
       "note": "Hyperspectral Image Classification | MoE",
-      "scholarId": "CxKy4lEAAAAJ:1Ye0OR6EYb4C",
-      "citationCount": 31,
+      "scholarId": "CxKy4lEAAAAJ:Dem6FJhTUoYC",
+      "citationCount": 33,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
         { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
@@ -55,8 +55,8 @@
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:AXkvAH5U_nMC",
-      "citationCount": 153,
+      "scholarId": "CxKy4lEAAAAJ:jE2MZjpN3IcC",
+      "citationCount": 154,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
         { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
@@ -113,8 +113,8 @@
       "highlights": [
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:q-HalDI95KYC",
-      "citationCount": 175,
+      "scholarId": "CxKy4lEAAAAJ:-7ulzOJl1JYC",
+      "citationCount": 176,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
       ],
