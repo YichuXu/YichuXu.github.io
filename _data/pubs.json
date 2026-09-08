@@ -15,8 +15,8 @@
         { "type": "hot", "label": "ESI Hot Paper (Top 0.1%)" },
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
-      "scholarId": "CxKy4lEAAAAJ:MAUkC_7iAq8C",
-      "citationCount": 309,
+      "scholarId": "CxKy4lEAAAAJ:HGTzPopzzJcC",
+      "citationCount": 313,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -34,8 +34,8 @@
       "image": "images/my_papers/MambaMoE.png",
       "doi": "https://arxiv.org/abs/2504.20509",
       "note": "Hyperspectral Image Classification | MoE",
-      "scholarId": "CxKy4lEAAAAJ:Dem6FJhTUoYC",
-      "citationCount": 33,
+      "scholarId": "CxKy4lEAAAAJ:OBSaB-F7qqsC",
+      "citationCount": 34,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
         { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
