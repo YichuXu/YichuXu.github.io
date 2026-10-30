@@ -16,7 +16,7 @@
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
       "scholarId": "CxKy4lEAAAAJ:-nhnvRiOwuoC",
-      "citationCount": 327,
+      "citationCount": 362,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2406.11519" },
         { "name": "Project", "url": "https://whu-sigma.github.io/HyperSIGMA/" },
@@ -35,7 +35,7 @@
       "doi": "https://arxiv.org/abs/2504.20509",
       "note": "Hyperspectral Image Classification | MoE",
       "scholarId": "CxKy4lEAAAAJ:mUJArPsKIAAC",
-      "citationCount": 38,
+      "citationCount": 47,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.20509" },
         { "name": "Code", "url": "https://github.com/YichuXu/MambaMoE" }
@@ -56,7 +56,7 @@
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
       "scholarId": "CxKy4lEAAAAJ:oi2SiIJ9l4AC",
-      "citationCount": 162,
+      "citationCount": 180,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2410.03171" },
         { "name": "Code", "url": "https://github.com/YichuXu/DSFormer" }
@@ -75,7 +75,7 @@
       "doi": "https://doi.org/10.1109/TGRS.2026.3717086",
       "note": "Hyperspectral Image Classification",
       "scholarId": "CxKy4lEAAAAJ:ziOE8S1-AIUC",
-      "citationCount": 1,
+      "citationCount": 2,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11625837/" },
         { "name": "Code", "url": "https://github.com/YichuXu/HGCNet" }
@@ -93,7 +93,7 @@
       "doi": "https://ieeexplore.ieee.org/document/10478963",
       "note": "Adversarial Defense for HSI",
       "scholarId": "CxKy4lEAAAAJ:Ade32sEp0pkC",
-      "citationCount": 43,
+      "citationCount": 45,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/10478963" },
         { "name": "Code", "url": "https://github.com/YichuXu/S3ANet" }
@@ -114,7 +114,7 @@
         { "type": "highly-cited", "label": "ESI Highly Cited Paper (Top 1%)" }
       ],
       "scholarId": "CxKy4lEAAAAJ:VN7nJs4JPk0C",
-      "citationCount": 179,
+      "citationCount": 185,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9760098" }
       ],
@@ -132,7 +132,7 @@
       "doi": "https://ieeexplore.ieee.org/document/11222630/",
       "note": "Hyperspectral Image Classification",
       "scholarId": "CxKy4lEAAAAJ:FiDNX6EVdGUC",
-      "citationCount": 12,
+      "citationCount": 15,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/document/11222630/" },
         { "name": "Code", "url": "https://github.com/YichuXu/PHDMamba" }
@@ -150,7 +150,7 @@
       "doi": "https://ieeexplore.ieee.org/document/8869927",
       "note": "Hyperspectral Anomaly Detection",
       "scholarId": "CxKy4lEAAAAJ:w0F2JDEymm0C",
-      "citationCount": 46,
+      "citationCount": 48,
       "links": [
         { "name": "PDF", "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8869927" }
       ],
@@ -170,7 +170,7 @@
       "doi": "https://arxiv.org/abs/2504.15170",
       "note": "Remote Sensing Change Detection",
       "scholarId": "CxKy4lEAAAAJ:F2UWTTQJPOcC",
-      "citationCount": 11,
+      "citationCount": 12,
       "links": [
         { "name": "PDF", "url": "https://arxiv.org/abs/2504.15170" },
         { "name": "Code", "url": "https://github.com/ChengxiHAN/HSANet" }
